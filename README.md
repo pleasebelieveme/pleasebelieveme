@@ -24,6 +24,8 @@
   <img src="https://img.shields.io/badge/Terraform-%23005C0F.svg?style=for-the-badge&logo=Terraform&logoColor=white" /> <br>
   
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-%23FF9900.svg?style=for-the-badge&logo=azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCP-%23FF9900.svg?style=for-the-badge&logo=google-cloud&logoColor=white" />
   <img src="https://img.shields.io/badge/NCP-%23FF9900.svg?style=for-the-badge&logo=naver&logoColor=white" />
   <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" />
   
