@@ -32,6 +32,7 @@
 </div>
 
 <br>
+<br>
 
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
@@ -42,6 +43,7 @@
   <img src="https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white" /> <br>
 </div>
 
+<br>
 <br>
 
 <h3 align="center">🛠 Tools 🛠</h3>
@@ -58,6 +60,7 @@
 <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
 </div>
 
+<br>
 <br>
 
 <h3 align="center">📫 Contact 📫</h3>
