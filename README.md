@@ -4,7 +4,7 @@
 </div>
 <br>
 <!--내용 부분-->
-<h1 align="center">✨ Tech Stack ✨</h3>
+<h1 align="center">✨ Tech Stack ✨</h1>
 <div align="center">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
@@ -34,7 +34,7 @@
 <br>
 <br>
 
-<h1 align="center">📚 Studying 📚</h3>
+<h1 align="center">📚 Studying 📚</h1>
 <div align="center">
   <img src="https://img.shields.io/badge/Docker-007ACC.svg?style=for-the-badge&logo=docker&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/kubernetes-FF4154?style=for-the-badge&logo=kubernetes&logoColor=white" />&nbsp
@@ -46,7 +46,7 @@
 <br>
 <br>
 
-<h1 align="center">🛠 Tools 🛠</h3>
+<h1 align="center">🛠 Tools 🛠</h1>
 <div align="center">
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
@@ -63,7 +63,7 @@
 <br>
 <br>
 
-<h1 align="center">📫 Contact 📫</h3>
+<h1 align="center">📫 Contact 📫</h1>
 <div align="center">
   <a href="https://believekim.tistory.com/">
     <img src="https://img.shields.io/badge/Tistory-1EBC8F?style=for-the-badge&logo=Tistory&logoColor=white" />&nbsp
