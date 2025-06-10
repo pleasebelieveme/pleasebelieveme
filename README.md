@@ -73,3 +73,6 @@
       src="https://img.shields.io/badge/cain1227@naver.com-D14836?style=for-the-badge&logo=Naver&logoColor=white"/>&nbsp
   </a>
 </div>
+
+![snake gif](https://github.com/아이디/아이디/blob/output/github-contribution-grid-snake.svg)
+
