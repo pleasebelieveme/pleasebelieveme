@@ -1,4 +1,4 @@
-![snake gif](https://github.com/pleasebelieveme/pleasebelieveme/blob/output/github-contribution-grid-snake.svg)
+<!-- ![snake gif](https://github.com/pleasebelieveme/pleasebelieveme/blob/output/github-contribution-grid-snake.svg) -->
 
 <!--타이틀 부분-->
 <div align="center">
