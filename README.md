@@ -1,3 +1,5 @@
+![snake gif](https://github.com/아이디/아이디/blob/output/github-contribution-grid-snake.svg)
+
 <!--타이틀 부분-->
 <div align="center">
   <img src="https://github.com/user-attachments/assets/071489a7-8b45-48eb-ac72-a0af383ed672" />
@@ -73,6 +75,4 @@
       src="https://img.shields.io/badge/cain1227@naver.com-D14836?style=for-the-badge&logo=Naver&logoColor=white"/>&nbsp
   </a>
 </div>
-
-![snake gif](https://github.com/pleasebelieveme/pleasebelieveme/blob/output/github-contribution-grid-snake.svg)
 
