@@ -15,10 +15,10 @@
   <table>
     <tr>
       <td valign="top">
-        <img src="https://github-readme-stats.vercel.app/api?username=pleasebelieveme&show_icons=true&theme=radical" width="380" />
+        <img src="https://github-readme-stats.vercel.app/api?username=pleasebelieveme&show_icons=true&theme=default" width="380" />
       </td>
       <td valign="top">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pleasebelieveme&layout=compact&theme=radical" width="300" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pleasebelieveme&layout=compact&theme=default" width="300" />
       </td>
     </tr>
   </table>
