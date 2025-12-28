@@ -1,7 +1,7 @@
 <div align="left">
-  <br/>
-  <img align="right" width="36" src="https://github.com/user-attachments/assets/f714934c-034a-4adf-a152-423b4003122c" />
-
+  <br />
+  <img align="right" width="80" src="https://github.com/user-attachments/assets/6c3385b3-05a7-47ab-a71b-a628e4435217" />
+  <br />
   <a href="https://believekim.tistory.com"><img src="https://img.shields.io/badge/Tistory-1EBC8F?style=badge&logo=Tistory&logoColor=white"/></a>
   <a href="mailto:cain1227@naver.com"><img src="https://img.shields.io/badge/Naver%20Mail-D14836?style=badge&logo=Naver&logoColor=white"/></a>
   <a href="https://solved.ac/believeme"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=believeme&theme=dark"/></a>
