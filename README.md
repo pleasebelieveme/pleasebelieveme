@@ -15,11 +15,10 @@
   <table>
     <tr>
       <td valign="top">
-        <!-- [![plasebelieveme's GitHub stats](https://github-readme-stats.vercel.app/api?username=pleasebelieveme)](https://github.com/anuraghazra/github-readme-stats)-->
-        [![GitHub Streak](https://streak-stats.demolab.com?user=pleasebelieveme&theme=dark&locale=ko)](https://git.io/streak-stats)
+        <img src="https://streak-stats.demolab.com?user=pleasebelieveme&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
       </td>
       <td valign="top">
-        <!-- [![plasebelieveme's GitHub stats](https://github-readme-stats.vercel.app/api?username=plasebelieveme)](https://github.com/anuraghazra/github-readme-stats) -->
+        <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=believeme" />
       </td>
     </tr>
   </table>
@@ -60,8 +59,17 @@
 
 <br>
 
+
 <div align="center">
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=pleasebelieveme&utm_content=line">
     <img src="https://render.gitanimals.org/lines/pleasebelieveme?pet-id=740344374713950815" width="600" height="120" />
   </a>
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pleasebelieveme/pleasebelieveme/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pleasebelieveme/pleasebelieveme/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/pleasebelieveme/pleasebelieveme/output/pacman-contribution-graph.svg">
+</picture>
+
+###
