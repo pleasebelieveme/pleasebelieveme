@@ -26,18 +26,17 @@
 
 <details>
 <summary>🛠 <b>Tech Stack</b></summary>
-<div align="center">
-  <br>
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D.svg?style=for-the-badge&logo=redis&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" />
-</div>
+<br>
+
+| Category | Skill Keywords |
+| :--- | :--- |
+| **Languages** | <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"> |
+| **Frameworks** | <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"> |
+| **Database & Cache** | <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/PostgreSQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
+| **Infra & DevOps** | <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/GitHub_Actions-2088L2?style=for-the-badge&logo=githubactions&logoColor=white"> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"> |
+| **Monitoring** | <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"> <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"> |
+| **IDE & Tools** | <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"> <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"> <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"> |
+
 </details>
 
 
@@ -49,7 +48,11 @@
 
 |출시|프로젝트|소개|바로가기|
 |:-:|:-|:-|:-:|
-|<sub>2025.12</sub> | **🔮 운명** | 대규모 쇼핑몰 트래픽 처리 | [🐈](https://github.com/team-destiny) &nbsp; [🔗](https://github.com/team-destiny) |
+|<sub>2025.12</sub> | **🔮 운명** | 대규모 쇼핑몰 트래픽 처리 프로젝트 | [🐈](https://github.com/team-destiny) &nbsp; [🔗](https://github.com/team-destiny) |
+|<sub>2025.11</sub> | **🥘 K-Grandma Recipe 👵** | 한국 할머니의 손맛, 모바일로 | [🐈]([https://github.com/team-destiny](https://github.com/pleasebelieveme/progate)) &nbsp; [🔗]() |
+|<sub>2025.10</sub> | **Cupeed💘🪽** | 물류 관리 및 배송 시스템 | [🐈]([https://github.com/team-destiny](https://github.com/np-five/Cupeed)) &nbsp; [🔗](https://github.com/np-five/Cupeed/blob/develop/exec/%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf) |
+|<sub>2025.08</sub> | **📕 의성도감** | 의성군민을 소개하고 인기 순위를 만들어가는 참여형 앱 | [🐈]([https://github.com/team-destiny](https://github.com/pleasebelieveme/Uiseong-dogam)) &nbsp; [🔗]() |
+|<sub>2025.06</sub> | **🥣 한사발** | 막걸리 커뮤니티 플랫폼 | [🐈](https://github.com/team-destiny) &nbsp; [🔗]() |
 
 </div>
 </details>
@@ -57,7 +60,7 @@
 
 
 <details>
-  <summary>▶️ <b>ETC</b></summary>
+  <summary>▶️ <b>Animation</b></summary>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pleasebelieveme/pleasebelieveme/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pleasebelieveme/pleasebelieveme/output/pacman-contribution-graph.svg">
@@ -78,6 +81,5 @@
 </details>
 
 ###
-
 
 
