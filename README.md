@@ -15,10 +15,11 @@
   <table>
     <tr>
       <td valign="top">
-        <img src="https://github-readme-stats.vercel.app/api?username=pleasebelieveme&show_icons=true&theme=default" width="380" />
+        <!-- [![plasebelieveme's GitHub stats](https://github-readme-stats.vercel.app/api?username=pleasebelieveme)](https://github.com/anuraghazra/github-readme-stats)-->
+        [![GitHub Streak](https://streak-stats.demolab.com?user=pleasebelieveme&theme=dark&locale=ko)](https://git.io/streak-stats)
       </td>
       <td valign="top">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pleasebelieveme&layout=compact&theme=default" width="300" />
+        <!-- [![plasebelieveme's GitHub stats](https://github-readme-stats.vercel.app/api?username=plasebelieveme)](https://github.com/anuraghazra/github-readme-stats) -->
       </td>
     </tr>
   </table>
