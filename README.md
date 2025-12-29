@@ -57,9 +57,8 @@
 </div>
 </details>
 
-<br>
-
-
+<details>
+  <summary>▶️ <b>ETC</b></summary>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pleasebelieveme/pleasebelieveme/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pleasebelieveme/pleasebelieveme/output/pacman-contribution-graph.svg">
@@ -69,5 +68,14 @@
 ###
 
 <img src="https://raw.githubusercontent.com/pleasebelieveme/pleasebelieveme/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=pleasebelieveme&utm_content=line">
+    <img src="https://render.gitanimals.org/lines/pleasebelieveme?pet-id=740344374713950815" width="600" height="120" />
+  </a>
+</div>
+</details>
 
 ###
