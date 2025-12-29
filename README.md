@@ -16,6 +16,7 @@
   <img src="https://streak-stats.demolab.com?user=pleasebelieveme&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=pleasebelieveme&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pleasebelieveme&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <script src="https://gist.github.com/pleasebelieveme/52e6cfcc391b8b2c367fe9c4d1070bbe.js"></script>
   <a href="https://solved.ac/believeme"><img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=believeme" /></a>
 </div>
 
@@ -79,4 +80,4 @@
 ###
 
 
-<img src="https://github-readme-stats.vercel.app/api/gist?id=본인의_GIST_ID&theme=radical&show_icons=true" width="400" />
+
