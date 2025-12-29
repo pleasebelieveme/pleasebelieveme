@@ -1,0 +1,33 @@
+name: Update All Gists (Routine & Stats)
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # 매일 자정 자동 실행
+  workflow_dispatch: # 수동 실행 버튼 활성화
+  push:
+    branches:
+      - main
+      - master
+
+jobs:
+  update-gists:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      # 1. Routine Gist 업데이트 (I'm a night 🦉)
+      - name: Update Routine Gist
+        uses: maxam2017/productive-box@master
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GIST_ID: ${{ secrets.GIST_ID_ROUTINE }}
+          TIMEZONE: Asia/Seoul
+
+      # 2. Statistics Gist 업데이트 (GitHub Stats Box)
+      - name: Update Statistics Gist
+        run: npx github-stats-box@1
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GIST_ID: ${{ secrets.GIST_ID_STATISTICS }}
+          ALL_COMMITS: true
+          K_FORMAT: false
