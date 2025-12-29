@@ -1,4 +1,4 @@
-name: Update Gist
+name: Update Gist ROUTINE
 on:
   schedule:
     - cron: "0 0 * * *" # 매일 자정에 업데이트
