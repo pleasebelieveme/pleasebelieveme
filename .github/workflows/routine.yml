@@ -1,0 +1,15 @@
+name: Update Gist
+on:
+  schedule:
+    - cron: "0 0 * * *" # 매일 자정에 업데이트
+  workflow_dispatch:
+jobs:
+  update-gist:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: maxam2017/productive-box@master
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GIST_ID: ${{ secrets.GIST_ID }}
+          TIMEZONE: Asia/Seoul
