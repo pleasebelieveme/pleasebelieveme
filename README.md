@@ -16,7 +16,6 @@
   <img src="https://streak-stats.demolab.com?user=pleasebelieveme&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=pleasebelieveme&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pleasebelieveme&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-  <script src="https://gist.github.com/pleasebelieveme/52e6cfcc391b8b2c367fe9c4d1070bbe.js"></script>
   <a href="https://solved.ac/believeme"><img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=believeme" /></a>
 </div>
 
@@ -40,7 +39,6 @@
 </details>
 
 
-
 <details>
 <summary>🚀 <b>Projects</b></summary>
 <div markdown="1">
@@ -62,17 +60,20 @@
 <details>
   <summary>▶️ <b>Animation</b></summary>
 <picture>
+  
+## 🟡 Pacman eats my daily GitHub contributions.
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pleasebelieveme/pleasebelieveme/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pleasebelieveme/pleasebelieveme/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/pleasebelieveme/pleasebelieveme/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
-
+## 🐍 Snake Contribution Animation
 <img src="https://raw.githubusercontent.com/pleasebelieveme/pleasebelieveme/output/snake.svg" alt="Snake animation" />
 
 ###
 
+## 🐾 My GitHub Animal
 <div align="center">
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=pleasebelieveme&utm_content=line">
     <img src="https://render.gitanimals.org/lines/pleasebelieveme?pet-id=740344374713950815" width="600" height="120" />
