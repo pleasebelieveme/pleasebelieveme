@@ -64,20 +64,10 @@
 
   <h3>🟡 Pacman eats my daily GitHub contributions</h3>
 
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/pleasebelieveme/pleasebelieveme/output/pacman-contribution-graph-dark.svg?cache=1"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/pleasebelieveme/pleasebelieveme/output/pacman-contribution-graph.svg?cache=1"
-    />
-    <img
-      alt="pacman contribution graph"
-      src="https://raw.githubusercontent.com/pleasebelieveme/pleasebelieveme/output/pacman-contribution-graph.svg?cache=1"
-    />
-  </picture>
+  <img
+    src="https://raw.githubusercontent.com/pleasebelieveme/pleasebelieveme/output/pacman-contribution-graph.svg?cache=1"
+    alt="pacman contribution graph"
+  />
 
   <br />
 
