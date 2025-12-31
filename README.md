@@ -59,28 +59,47 @@
 
 <details>
   <summary>▶️ <b>Animation</b></summary>
-<picture>
-  
-## 🟡 Pacman eats my daily GitHub contributions.
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pleasebelieveme/pleasebelieveme/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pleasebelieveme/pleasebelieveme/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/pleasebelieveme/pleasebelieveme/output/pacman-contribution-graph.svg">
-</picture>
 
-###
-## 🐍 Snake Contribution Animation
-<img src="https://raw.githubusercontent.com/pleasebelieveme/pleasebelieveme/output/snake.svg" alt="Snake animation" />
+  <br />
 
-###
+  <h3>🟡 Pacman eats my daily GitHub contributions</h3>
 
-## 🐾 My GitHub Animal
-<div align="center">
-  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=pleasebelieveme&utm_content=line">
-    <img src="https://render.gitanimals.org/lines/pleasebelieveme?pet-id=740344374713950815" width="600" height="120" />
-  </a>
-</div>
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/pleasebelieveme/pleasebelieveme/output/pacman-contribution-graph-dark.svg?cache=1"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/pleasebelieveme/pleasebelieveme/output/pacman-contribution-graph.svg?cache=1"
+    />
+    <img
+      alt="pacman contribution graph"
+      src="https://raw.githubusercontent.com/pleasebelieveme/pleasebelieveme/output/pacman-contribution-graph.svg?cache=1"
+    />
+  </picture>
+
+  <br />
+
+  <h3>🐍 Snake Contribution Animation</h3>
+  <img
+    src="https://raw.githubusercontent.com/pleasebelieveme/pleasebelieveme/output/snake.svg?cache=1"
+    alt="Snake animation"
+  />
+
+  <br />
+
+  <h3>🐾 My GitHub Animal</h3>
+  <div align="center">
+    <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=pleasebelieveme&utm_content=line">
+      <img
+        src="https://render.gitanimals.org/lines/pleasebelieveme?pet-id=740344374713950815"
+        width="600"
+        height="120"
+        alt="GitHub Animal"
+      />
+    </a>
+  </div>
+
 </details>
-
-###
-
 
