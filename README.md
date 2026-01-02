@@ -84,9 +84,7 @@
     <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=pleasebelieveme&utm_content=line">
       <img
         src="https://render.gitanimals.org/lines/pleasebelieveme?pet-id=740344374713950815"
-        width="600"
-        height="120"
-        alt="GitHub Animal"
+        width="99%"
       />
     </a>
   </div>
