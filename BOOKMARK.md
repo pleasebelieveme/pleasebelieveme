@@ -98,3 +98,20 @@
 | Name | Description | Link |
 | :--- | :--- | :--- |
 | **JSON Formatter** | JSON 데이터를 보기 좋게 정렬하고 검증해주는 툴 | [Visit](https://jsonformatter.curiousconcept.com/) |
+| **Hanipsum** | 디자인용 한글 더미 텍스트 생성기 | [Visit](https://hanipsum.com/) |
+| **UUID Gen** | 랜덤 UUID 생성 도구 | [Visit](https://wepplication.github.io/tools/uuidGen/) |
+
+<br />
+
+## <a name="news"></a>📰 NEWS
+> 최신 기술 트렌드 및 프로그래밍 동향 분석
+
+| Name | Description | Link |
+| :--- | :--- | :--- |
+| **TIOBE Index** | 프로그래밍 언어 인기 순위 인덱스 | [Visit](https://www.tiobe.com/tiobe-index/) |
+| **Elancer Blog** | IT 프리랜서 및 최신 기술 정보 블로그 | [Visit](https://www.elancer.co.kr/blog) |
+| **GeekNews** | 핵심 IT 기술 소식 큐레이션 | [Visit](https://news.hada.io/) |
+| **JoCoding** | 기술 트렌드를 쉽게 설명하는 유튜브 | [Visit](https://www.youtube.com/@jocoding) |
+
+---
+마지막 업데이트: 2026-01-04
