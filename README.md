@@ -2,9 +2,10 @@
   <br />
   <img align="right" width="80" src="https://github.com/user-attachments/assets/6c3385b3-05a7-47ab-a71b-a628e4435217" />
   <br />
-  <a href="https://believekim.tistory.com"><img src="https://img.shields.io/badge/Tistory-1EBC8F?style=badge&logo=Tistory&logoColor=white"/></a>
-  <a href="mailto:cain1227@naver.com"><img src="https://img.shields.io/badge/Naver%20Mail-D14836?style=badge&logo=Naver&logoColor=white"/></a>
-  <a href="https://solved.ac/believeme"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=believeme&theme=dark"/></a>
+  <a href="https://portfolio-k2o1uj2pq-pleasebelievemes-projects.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-111111?style=flat&logo=vercel&logoColor=white"/></a>
+  <a href="https://believekim.tistory.com"><img src="https://img.shields.io/badge/Tistory-1EBC8F?style=flat&logo=Tistory&logoColor=white"/></a>
+  <a href="mailto:cain1227@naver.com"><img src="https://img.shields.io/badge/Naver%20Mail-D14836?style=flat&logo=Naver&logoColor=white"/></a>
+  <a href="https://solved.ac/believeme"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=believeme&theme=dark" height="20"/></a>
   <hr>
 </div>
 
@@ -17,7 +18,6 @@
   <img src="https://github-profile-trophy.vercel.app?username=pleasebelieveme&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pleasebelieveme&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
   <a href="https://solved.ac/believeme"><img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=believeme" /></a>
-  [![trophy](https://github-profile-trophy.vercel.app/?username=pleasebelieveme&theme=discord&row=2&column=4)](https://github.com/jangjia01234/github-profile-trophy)
 </div>
 
 ###
