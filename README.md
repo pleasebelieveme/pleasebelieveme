@@ -3,8 +3,8 @@
   <img align="right" width="80" src="https://github.com/user-attachments/assets/6c3385b3-05a7-47ab-a71b-a628e4435217" />
   <br />
   <a href="https://portfolio-k2o1uj2pq-pleasebelievemes-projects.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-111111?style=flat&logo=vercel&logoColor=white"/></a>
-  <a href="https://believekim.tistory.com"><img src="https://img.shields.io/badge/Tistory-1EBC8F?style=flat&logo=Tistory&logoColor=white"/></a>
-  <a href="mailto:cain1227@naver.com"><img src="https://img.shields.io/badge/Naver%20Mail-D14836?style=flat&logo=Naver&logoColor=white"/></a>
+  <a href="https://believekim.tistory.com"><img src="https://img.shields.io/badge/Tistory-EB531F?style=flat&logo=Tistory&logoColor=white"/></a>
+  <a href="mailto:cain1227@naver.com"><img src="https://img.shields.io/badge/Naver%20Mail-03C75A?style=flat&logo=Naver&logoColor=white"/></a>
   <a href="https://solved.ac/believeme"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=believeme&theme=dark" height="20"/></a>
   <hr>
 </div>
