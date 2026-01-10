@@ -27,6 +27,10 @@
 
 | Name | Description | Link |
 | :--- | :--- | :--- |
+| **Qwen-Image-2512** | AI 이미지 생성 도구 (오픈소스) | [Visit](https://huggingface.co/Qwen) |
+| **Tencent HY-Motion** | AI 모션 생성 도구 (오픈소스 1.0) | [Visit](https://github.com/Tencent/HunyuanVideo) |
+| **IQuest-Coder** | 중국의 오픈소스 경량 AI (40B) | [Visit](https://huggingface.co/models) |
+| **Meta Llama** | 메타 오픈소스 AI 모델 시리즈 | [Visit](https://llama.meta.com/) |
 | **Qwen-Image-Layered** | 이미지를 레이어별로 분리해주는 혁신적인 AI 도구 | [Visit](https://huggingface.co/Qwen/Qwen-Image-Layered) |
 | **ChatGPT** | OpenAI의 대화형 인공지능 서비스 | [Visit](https://chat.openai.com/) |
 | **Claude** | Anthropic의 고성능 대화형 AI | [Visit](https://claude.ai/) |
@@ -108,10 +112,11 @@
 
 | Name | Description | Link |
 | :--- | :--- | :--- |
+| **Pickle 1** | AR 안경 디바이스 출시 소식 | [Visit](https://example.com) |
 | **TIOBE Index** | 프로그래밍 언어 인기 순위 인덱스 | [Visit](https://www.tiobe.com/tiobe-index/) |
 | **Elancer Blog** | IT 프리랜서 및 최신 기술 정보 블로그 | [Visit](https://www.elancer.co.kr/blog) |
 | **GeekNews** | 핵심 IT 기술 소식 큐레이션 | [Visit](https://news.hada.io/) |
 | **JoCoding** | 기술 트렌드를 쉽게 설명하는 유튜브 | [Visit](https://www.youtube.com/@jocoding) |
 
 ---
-마지막 업데이트: 2026-01-04
+마지막 업데이트: 2026-01-10
