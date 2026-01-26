@@ -31,125 +31,112 @@
 
 | Name | Description | Link |
 | :--- | :--- | :--- |
-| **Veo 3.1** | 구글의 고성능 비디오 생성 AI 도구 | [Visit](https://deepmind.google/technologies/veo/) |
-| **FLUX.2 [klein]** | 오픈소스 기반의 매우 빠른 이미지 생성 모델 | [Visit](https://huggingface.co/black-forest-labs) |
-| **Open GLM** | 오픈소스 대규모 언어 모델 (General Language Model) | [Visit](https://github.com/THUDM/ChatGLM3) |
-| **Pocket TTS** | Kyutai의 오픈소스 초경량 TTS (한국어 미지원) | [Visit](https://github.com/kyutai-labs) |
-| **HeartMuLa** | 오픈소스 인공지능 음악 생성 도구 | [Visit](https://github.com) |
-| **Qwen-Image-2512** | AI 이미지 생성 도구 (오픈소스) | [Visit](https://huggingface.co/Qwen) |
-| **Tencent HY-Motion** | AI 모션 생성 도구 (오픈소스 1.0) | [Visit](https://github.com/Tencent/HunyuanVideo) |
-| **IQuest-Coder** | 중국의 오픈소스 경량 AI (40B) | [Visit](https://huggingface.co/models) |
-| **Meta Llama** | 메타 오픈소스 AI 모델 시리즈 | [Visit](https://llama.meta.com/) |
-| **Qwen-Image-Layered** | 이미지를 레이어별로 분리해주는 AI 도구 | [Visit](https://huggingface.co/Qwen/Qwen-Image-Layered) |
-| **ChatGPT** | OpenAI의 대화형 인공지능 서비스 | [Visit](https://chat.openai.com/) |
-| **Claude** | Anthropic의 고성능 대화형 AI | [Visit](https://claude.ai/) |
+| **Veo 3.1** | 구글의 고성능 비디오 생성 AI | [Visit](https://deepmind.google/technologies/veo/) |
+| **FLUX.2 [klein]** | 오픈소스 기반 초고속 이미지 생성 모델 | [Visit](https://huggingface.co/black-forest-labs) |
+| **Open GLM** | 오픈소스 대규모 언어 모델 | [Visit](https://github.com/THUDM/ChatGLM3) |
+| **Qwen3-TTS** | 오픈소스 TTS, **한국어 지원** | [Visit](https://github.com/QwenLM) |
+| **Pocket TTS** | Kyutai의 초경량 오픈소스 TTS | [Visit](https://github.com/kyutai-labs) |
+| **Microsoft VibeVoice-ASR** | STT 모델, **최대 60분 오디오 처리**, 오픈소스 | [Visit](https://github.com/microsoft) |
+| **NVIDIA PersonaPlex** | 상업적 사용 가능한 오픈소스 대화형 AI | [Visit](https://github.com/NVIDIA) |
+| **ByteDance FlowAct-R1** | 실시간 인터랙티브 휴먼 비디오 생성 (비공개) | - |
+| **Clawdbot** | 개인 AI 비서, 메신저 연동 가능 | [Visit](https://clawdbot.ai) |
+| **Qwen-Image-2512** | 오픈소스 이미지 생성 모델 | [Visit](https://huggingface.co/Qwen) |
+| **Qwen-Image-Layered** | 이미지 레이어 분리 AI | [Visit](https://huggingface.co/Qwen/Qwen-Image-Layered) |
+| **Tencent HY-Motion** | 오픈소스 모션 생성 AI | [Visit](https://github.com/Tencent/HunyuanVideo) |
+| **IQuest-Coder** | 경량 오픈소스 코드 LLM (40B) | [Visit](https://huggingface.co/models) |
+| **Meta Llama** | 메타 오픈소스 LLM 시리즈 | [Visit](https://llama.meta.com/) |
+| **ChatGPT** | OpenAI 대화형 AI | [Visit](https://chat.openai.com/) |
+| **Claude** | Anthropic 대화형 AI | [Visit](https://claude.ai/) |
 
 <br />
 
 ## <a name="ps"></a>💡 PS (Problem Solving)
 
-> 알고리즘 역량 강화를 위한 문제 풀이 및 랭킹 사이트
-
 | Name | Description | Link |
 | :--- | :--- | :--- |
-| **백준 (BOJ)** | 국내 최대 규모의 알고리즘 문제 풀이 사이트 | [Visit](https://www.acmicpc.net/) |
-| **solved.ac** | 백준 연동 알고리즘 문제 레벨링 및 난이도 제공 | [Visit](https://solved.ac/) |
-| **프로그래머스** | 실무 중심의 코딩 테스트 및 채용 연동 플랫폼 | [Visit](https://programmers.co.kr/) |
-| **LeetCode** | 글로벌 표준 알고리즘 문제 풀이 및 인터뷰 준비 | [Visit](https://leetcode.com/) |
+| **백준 (BOJ)** | 알고리즘 문제 풀이 | [Visit](https://www.acmicpc.net/) |
+| **solved.ac** | 백준 문제 난이도 시각화 | [Visit](https://solved.ac/) |
+| **프로그래머스** | 코딩 테스트 플랫폼 | [Visit](https://programmers.co.kr/) |
+| **LeetCode** | 글로벌 인터뷰 대비 | [Visit](https://leetcode.com/) |
 
 <br />
 
 ## <a name="uiux"></a>🎨 UI/UX
 
-> 디자인 시스템 및 인터랙티브 요소 라이브러리
-
 | Name | Description | Link |
 | :--- | :--- | :--- |
-| **Tailblocks** | 준비된 Tailwind CSS 디자인 블록 모음 | [Visit](https://tailblocks.cc/) |
-| **Lottiefiles** | 웹/앱용 JSON 기반 경량 애니메이션 | [Visit](https://lottiefiles.com/) |
+| **Tailblocks** | Tailwind 디자인 블록 | [Visit](https://tailblocks.cc/) |
+| **Lottiefiles** | JSON 애니메이션 | [Visit](https://lottiefiles.com/) |
 
 <br />
 
 ## <a name="docs"></a>📚 DOCS
 
-> 공식 모범 사례 가이드 및 통합 기술 문서
-
 | Name | Description | Link |
 | :--- | :--- | :--- |
-| **Google CodeWiki** | 구글의 코드 작성 및 기술 가이드 위키 | [Visit](https://codewiki.google/) |
+| **Google CodeWiki** | 구글 개발 가이드 | [Visit](https://codewiki.google/) |
 
 <br />
 
 ## <a name="front"></a>💻 FRONT
 
-> 프론트엔드 프레임워크 및 스타일링 공식 가이드
-
 | Name | Description | Link |
 | :--- | :--- | :--- |
-| **Next.js Docs** | Next.js 공식 개발 문서 | [Visit](https://nextjs.org/docs) |
-| **Tailwind CSS** | 유틸리티 퍼스트 CSS 프레임워크 공식 가이드 | [Visit](https://tailwindcss.com/docs) |
+| **Next.js Docs** | Next.js 공식 문서 | [Visit](https://nextjs.org/docs) |
+| **Tailwind CSS** | 유틸리티 CSS | [Visit](https://tailwindcss.com/docs) |
+| **skills.sh (Vercel)** | 개발자 스킬 큐레이션 | [Visit](https://skills.sh) |
 
 <br />
 
 ## <a name="back"></a>⚙️ BACK
 
-> API 설계, 결제 연동 및 통신 인프라
-
 | Name | Description | Link |
 | :--- | :--- | :--- |
-| **JWT.io** | JSON Web Token 디버깅 도구 | [Visit](https://jwt.io/) |
-| **Toss Payments** | 국내 결제 연동 개발자 센터 | [Visit](https://developers.tosspayments.com/) |
-| **Twilio** | 통신 API 플랫폼 (SMS, Voice, Email) | [Visit](https://www.twilio.com/) |
+| **JWT.io** | JWT 디버깅 | [Visit](https://jwt.io/) |
+| **Toss Payments** | 결제 API | [Visit](https://developers.tosspayments.com/) |
+| **Twilio** | 통신 API (SMS/Voice/Email) | [Visit](https://www.twilio.com/) |
 
 <br />
 
 ## <a name="opstest"></a>🛠️ OPS/TEST
 
-> API 테스트, 시스템 모니터링 및 성능 측정 도구
-
 | Name | Description | Link |
 | :--- | :--- | :--- |
-| **Postman** | API 개발 및 테스트 플랫폼 | [Visit](https://www.postman.com/) |
-| **Grafana** | 데이터 시각화 및 대시보드 모니터링 툴 | [Visit](https://grafana.com/) |
-| **Prometheus** | 오픈소스 모니터링 및 알람 시스템 | [Visit](https://prometheus.io/) |
+| **Postman** | API 테스트 | [Visit](https://www.postman.com/) |
+| **Grafana** | 모니터링 대시보드 | [Visit](https://grafana.com/) |
+| **Prometheus** | 메트릭 수집 | [Visit](https://prometheus.io/) |
 
 <br />
 
 ## <a name="deploy"></a>🚀 DEPLOY
 
-> 프로젝트 배포 및 인프라 관리
-
 | Name | Description | Link |
 | :--- | :--- | :--- |
-| **Vercel** | 프론트엔드 최적화 배포 플랫폼 | [Visit](https://vercel.com/) |
+| **Vercel** | 프론트엔드 배포 | [Visit](https://vercel.com/) |
 
 <br />
 
 ## <a name="data"></a>📊 DATA
 
-> 데이터 가공, 더미 생성 및 포맷 변환 도구
-
 | Name | Description | Link |
 | :--- | :--- | :--- |
-| **JSON Formatter** | JSON 데이터를 정렬하고 검증해주는 툴 | [Visit](https://jsonformatter.curiousconcept.com/) |
-| **Hanipsum** | 디자인용 한글 더미 텍스트 생성기 | [Visit](https://hanipsum.com/) |
-| **UUID Gen** | 랜덤 UUID 생성 도구 | [Visit](https://wepplication.github.io/tools/uuidGen/) |
+| **JSON Formatter** | JSON 포맷 정리 | [Visit](https://jsonformatter.curiousconcept.com/) |
+| **Hanipsum** | 한글 더미 텍스트 | [Visit](https://hanipsum.com/) |
+| **UUID Gen** | UUID 생성기 | [Visit](https://wepplication.github.io/tools/uuidGen/) |
 
 <br />
 
 ## <a name="news"></a>📰 NEWS
 
-> 최신 기술 트렌드 및 프로그래밍 동향 분석
-
 | Name | Description | Link |
 | :--- | :--- | :--- |
-| **Pickle 1** | AR 안경 디바이스 출시 소식 | [Visit](https://example.com) |
-| **TIOBE Index** | 프로그래밍 언어 인기 순위 인덱스 | [Visit](https://www.tiobe.com/tiobe-index/) |
-| **Elancer Blog** | IT 프리랜서 및 최신 기술 정보 블로그 | [Visit](https://www.elancer.co.kr/blog) |
-| **GeekNews** | 핵심 IT 기술 소식 큐레이션 | [Visit](https://news.hada.io/) |
-| **JoCoding** | 기술 트렌드를 쉽게 설명하는 유튜브 | [Visit](https://www.youtube.com/@jocoding) |
-| **Developer Roadmaps** | 개발자 직군별 학습 로드맵 시각화 | [Visit](https://roadmap.sh/dashboard?fl=1) |
+| **TIOBE Index** | 언어 인기 지표 | [Visit](https://www.tiobe.com/tiobe-index/) |
+| **GeekNews** | IT 뉴스 큐레이션 | [Visit](https://news.hada.io/) |
+| **Elancer Blog** | IT 프리랜서 정보 | [Visit](https://www.elancer.co.kr/blog) |
+| **JoCoding** | 개발 유튜브 | [Visit](https://www.youtube.com/@jocoding) |
+| **Developer Roadmaps** | 직군별 학습 로드맵 | [Visit](https://roadmap.sh/dashboard?fl=1) |
+| **Korea AI Basic Act (2026)** | 세계 최초 AI 기본법 시행 (1년 규제 유예) | - |
 
 ---
 
-마지막 업데이트: 2026-01-21
+마지막 업데이트: **2026-01-22**
