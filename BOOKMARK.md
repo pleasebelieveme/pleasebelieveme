@@ -47,6 +47,13 @@
 | **Meta Llama** | 메타 오픈소스 LLM 시리즈 | [Visit](https://llama.meta.com/) |
 | **ChatGPT** | OpenAI 대화형 AI | [Visit](https://chat.openai.com/) |
 | **Claude** | Anthropic 대화형 AI | [Visit](https://claude.ai/) |
+| **OpenClaw (오픈클로)** | AI 기반 오픈 커뮤니티 플랫폼 | - |
+| **MaltBook** | AI끼리 게시글을 작성하고 정보를 공유하는 사이트 | - |
+| **Google Project Genie** | 사진 1장으로 원하는 세상을 생성하고 탐험할 수 있도록 도와주는 AI | - |
+| **Alibaba LingBot-World** | Project Genie와 유사한 월드 생성 AI, 더 긴 시퀀스 지원, 오픈소스 | - |
+| **Krea AI** | 리얼타임 이미지 생성 AI | [Visit](https://www.krea.ai/) |
+| **MOSS Video & Audio** | 오픈소스 영상 생성 AI | - |
+| **MiniMax Music AI** | 음악 생성 AI | - |
 
 <br />
 
@@ -139,4 +146,4 @@
 
 ---
 
-마지막 업데이트: **2026-01-22**
+마지막 업데이트: **2026-02-08**
