@@ -54,6 +54,11 @@
 | **Krea AI** | 리얼타임 이미지 생성 AI | [Visit](https://www.krea.ai/) |
 | **MOSS Video & Audio** | 오픈소스 영상 생성 AI | - |
 | **MiniMax Music AI** | 음악 생성 AI | - |
+| **Kling 3.0** | 고품질 영상 생성 AI, 텍스트 및 이미지 기반 영상 생성 지원 | - |
+| **Seedance 2.0** | ByteDance의 영상 생성 AI, 자연스러운 모션과 시네마틱 영상 생성 | - |
+| **VisionClaw** | Meta 스마트 안경에 OpenClaw를 탑재하여 실시간 AI 상호작용 가능 | - |
+| **Alpha Arena** | AI 모델 및 전략별 투자 수익률 비교 및 분석 정보 제공 사이트 | - |
+| **Ace Music** | 오픈소스 음악 생성 AI, 다양한 스타일의 음악 생성 가능 | - |
 
 <br />
 
@@ -146,4 +151,4 @@
 
 ---
 
-마지막 업데이트: **2026-02-08**
+마지막 업데이트: **2026-02-22**
