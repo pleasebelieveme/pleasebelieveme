@@ -34,8 +34,10 @@
 | **Veo 3.1** | 구글의 고성능 비디오 생성 AI | [Visit](https://deepmind.google/technologies/veo/) |
 | **FLUX.2 [klein]** | 오픈소스 기반 초고속 이미지 생성 모델 | [Visit](https://huggingface.co/black-forest-labs) |
 | **Open GLM** | 오픈소스 대규모 언어 모델 | [Visit](https://github.com/THUDM/ChatGLM3) |
+| **GLM-5** | 오픈소스 코딩 특화 LLM, 코드 생성 및 이해 능력 강화 | [Visit](https://github.com/THUDM) |
 | **Qwen3-TTS** | 오픈소스 TTS, **한국어 지원** | [Visit](https://github.com/QwenLM) |
 | **Pocket TTS** | Kyutai의 초경량 오픈소스 TTS | [Visit](https://github.com/kyutai-labs) |
+| **MOSS-TTS** | 오픈소스 텍스트 음성 변환 모델, 다양한 음성 스타일 지원 | - |
 | **Microsoft VibeVoice-ASR** | STT 모델, **최대 60분 오디오 처리**, 오픈소스 | [Visit](https://github.com/microsoft) |
 | **NVIDIA PersonaPlex** | 상업적 사용 가능한 오픈소스 대화형 AI | [Visit](https://github.com/NVIDIA) |
 | **ByteDance FlowAct-R1** | 실시간 인터랙티브 휴먼 비디오 생성 (비공개) | - |
@@ -52,13 +54,13 @@
 | **Google Project Genie** | 사진 1장으로 원하는 세상을 생성하고 탐험할 수 있도록 도와주는 AI | - |
 | **Alibaba LingBot-World** | Project Genie와 유사한 월드 생성 AI, 더 긴 시퀀스 지원, 오픈소스 | - |
 | **Krea AI** | 리얼타임 이미지 생성 AI | [Visit](https://www.krea.ai/) |
-| **MOSS Video & Audio** | 오픈소스 영상 생성 AI | - |
+| **MOSS Video & Audio** | 오픈소스 영상 및 오디오 생성 AI | - |
 | **MiniMax Music AI** | 음악 생성 AI | - |
+| **Ace Music** | 오픈소스 음악 생성 AI, 다양한 스타일의 음악 생성 가능 | - |
 | **Kling 3.0** | 고품질 영상 생성 AI, 텍스트 및 이미지 기반 영상 생성 지원 | - |
-| **Seedance 2.0** | ByteDance의 영상 생성 AI, 자연스러운 모션과 시네마틱 영상 생성 | - |
+| **Seedance 2.0** | ByteDance(중국)의 영상 생성 AI, 고품질 모션 및 시네마틱 영상 생성 | - |
 | **VisionClaw** | Meta 스마트 안경에 OpenClaw를 탑재하여 실시간 AI 상호작용 가능 | - |
 | **Alpha Arena** | AI 모델 및 전략별 투자 수익률 비교 및 분석 정보 제공 사이트 | - |
-| **Ace Music** | 오픈소스 음악 생성 AI, 다양한 스타일의 음악 생성 가능 | - |
 
 <br />
 
@@ -151,4 +153,4 @@
 
 ---
 
-마지막 업데이트: **2026-02-22**
+마지막 업데이트: **2026-02-23**
