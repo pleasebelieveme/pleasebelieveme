@@ -1,3 +1,6 @@
+1. 라이브 sql https://freesql.com/
+2. 더미데이터 사이트 https://www.kaggle.com/
+
 # 🔖 My Developer Bookmarks
 
 학습 과정에서 영감을 얻었거나 실무에서 자주 참고하는 유용한 사이트들을 카테고리별로 정리한 저장소입니다.
@@ -41,9 +44,9 @@
 | **MOSS-TTS** | 오픈소스 텍스트 음성 변환 모델 (MOSS 생태계 기반) | - |
 | **Microsoft VibeVoice-ASR** | 오픈소스 STT, 최대 60분 오디오 처리 | [Visit](https://github.com/microsoft) |
 | **NVIDIA PersonaPlex** | 상업용 오픈소스 대화형 AI 프레임워크 | [Visit](https://github.com/NVIDIA) |
-| **OpenClaw** | 오픈소스 자율 AI 어시스턴트 | [Visit](https://openclaw.ai/) :contentReference[oaicite:1]{index=1} |
+| **OpenClaw** | 오픈소스 자율 AI 어시스턴트 | [Visit](https://openclaw.ai/) |
 | **Clawdbot** | 개인 AI 비서 연동 (이전 OpenClaw 프로젝트) | [Visit](https://clawdbot.ai) |
-| **Manus** | Meta가 인수한 자율 AI 에이전트 (복잡한 작업 자동 실행) | [Visit](https://manus.im/) :contentReference[oaicite:2]{index=2} |
+| **Manus** | Meta가 인수한 자율 AI 에이전트 (복잡한 작업 자동 실행) | [Visit](https://manus.im/) |
 | **MaltBook** | AI끼리 게시글 생성 및 지식 공유 | - |
 | **Google Project Genie** | 이미지 기반 인터랙티브 월드 생성 AI | - |
 | **Alibaba LingBot-World** | 월드 생성 AI | - |
@@ -54,7 +57,7 @@
 | **Seedance 2.0** | 중국 ByteDance의 영상 생성 AI | - |
 | **VisionClaw** | Meta 스마트 안경과 연동되는 실시간 AI 인터랙션 | - |
 | **Alpha Arena** | AI 모델 투자 전략 및 성능 비교 플랫폼 | - |
-| **ZUNA** | 비침습 뇌파(BCI) 기반 텍스트 입력 및 신호 해석용 AI 모델 | - :contentReference[oaicite:3]{index=3} |
+| **ZUNA** | 비침습 뇌파(BCI) 기반 텍스트 입력 및 신호 해석용 AI 모델 | - |
 
 <br />
 
@@ -101,6 +104,7 @@
 
 | Name | Description | Link |
 | :--- | :--- | :--- |
+| **FreeSQL** | 브라우저 기반 라이브 SQL 테스트 및 연습 | [Visit](https://freesql.com/) |
 | **JWT.io** | JWT 디버깅 도구 | [Visit](https://jwt.io/) |
 | **Toss Payments** | 결제 API | [Visit](https://developers.tosspayments.com/) |
 | **Twilio** | 통신 API 플랫폼 | [Visit](https://www.twilio.com/) |
@@ -129,6 +133,7 @@
 
 | Name | Description | Link |
 | :--- | :--- | :--- |
+| **Kaggle** | 데이터 사이언티스트를 위한 더미 데이터 및 데이터셋 저장소 | [Visit](https://www.kaggle.com/) |
 | **JSON Formatter** | JSON 포맷 정리 | [Visit](https://jsonformatter.curiousconcept.com/) |
 | **Hanipsum** | 한글 더미 텍스트 | [Visit](https://hanipsum.com/) |
 | **UUID Gen** | UUID 생성기 | [Visit](https://wepplication.github.io/tools/uuidGen/) |
@@ -147,4 +152,4 @@
 
 ---
 
-마지막 업데이트: **2026-02-25**
+마지막 업데이트: **2026-03-10**
