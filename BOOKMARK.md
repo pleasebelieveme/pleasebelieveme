@@ -1,6 +1,3 @@
-1. 라이브 sql https://freesql.com/
-2. 더미데이터 사이트 https://www.kaggle.com/
-
 # 🔖 My Developer Bookmarks
 
 학습 과정에서 영감을 얻었거나 실무에서 자주 참고하는 유용한 사이트들을 카테고리별로 정리한 저장소입니다.
@@ -35,29 +32,15 @@
 | Name | Description | Link |
 | :--- | :--- | :--- |
 | **Veo 3.1** | 구글의 고성능 비디오 생성 AI | [Visit](https://deepmind.google/technologies/veo/) |
-| **Lyria 3** | 구글 DeepMind의 최신 AI 음악 생성 모델, 텍스트·이미지·비디오 기반 30초 음악 생성 가능 | [Visit](https://gemini.google/bf/overview/music-generation/) |
+| **Lyria 3** | 구글 DeepMind의 최신 AI 음악 생성 모델, 30초 음악 생성 가능 | [Visit](https://gemini.google/bf/overview/music-generation/) |
 | **FLUX.2 [klein]** | 오픈소스 기반 초고속 이미지 생성 모델 | [Visit](https://huggingface.co/black-forest-labs) |
 | **Open GLM** | THUDM의 오픈소스 대규모 언어 모델 | [Visit](https://github.com/THUDM/ChatGLM3) |
-| **GLM-5** | OpenGLM 계열의 오픈소스 코딩 특화 LLM, 코드 작성 및 이해에 최적화 | [Visit](https://github.com/THUDM) |
+| **GLM-5** | 오픈소스 코딩 특화 LLM, 코드 작성 및 이해에 최적화 | [Visit](https://github.com/THUDM) |
 | **Qwen3-TTS** | 오픈소스 TTS, **한국어 포함** | [Visit](https://github.com/QwenLM) |
 | **Pocket TTS** | Kyutai의 초경량 오픈소스 TTS | [Visit](https://github.com/kyutai-labs) |
-| **MOSS-TTS** | 오픈소스 텍스트 음성 변환 모델 (MOSS 생태계 기반) | - |
-| **Microsoft VibeVoice-ASR** | 오픈소스 STT, 최대 60분 오디오 처리 | [Visit](https://github.com/microsoft) |
-| **NVIDIA PersonaPlex** | 상업용 오픈소스 대화형 AI 프레임워크 | [Visit](https://github.com/NVIDIA) |
 | **OpenClaw** | 오픈소스 자율 AI 어시스턴트 | [Visit](https://openclaw.ai/) |
-| **Clawdbot** | 개인 AI 비서 연동 (이전 OpenClaw 프로젝트) | [Visit](https://clawdbot.ai) |
 | **Manus** | Meta가 인수한 자율 AI 에이전트 (복잡한 작업 자동 실행) | [Visit](https://manus.im/) |
-| **MaltBook** | AI끼리 게시글 생성 및 지식 공유 | - |
-| **Google Project Genie** | 이미지 기반 인터랙티브 월드 생성 AI | - |
-| **Alibaba LingBot-World** | 월드 생성 AI | - |
 | **Krea AI** | 리얼타임 이미지 생성 AI | [Visit](https://www.krea.ai/) |
-| **MOSS Video & Audio** | 오픈소스 영상·오디오 생성 모델 | - |
-| **MiniMax Music AI** | AI 음악 생성 도구 | - |
-| **Ace Music** | 오픈소스 음악 생성 AI | - |
-| **Seedance 2.0** | 중국 ByteDance의 영상 생성 AI | - |
-| **VisionClaw** | Meta 스마트 안경과 연동되는 실시간 AI 인터랙션 | - |
-| **Alpha Arena** | AI 모델 투자 전략 및 성능 비교 플랫폼 | - |
-| **ZUNA** | 비침습 뇌파(BCI) 기반 텍스트 입력 및 신호 해석용 AI 모델 | - |
 
 <br />
 
@@ -104,7 +87,7 @@
 
 | Name | Description | Link |
 | :--- | :--- | :--- |
-| **FreeSQL** | 브라우저 기반 라이브 SQL 테스트 및 연습 | [Visit](https://freesql.com/) |
+| **FreeSQL** | 브라우저 기반 라이브 SQL 테스트 및 연습 도구 | [Visit](https://freesql.com/) |
 | **JWT.io** | JWT 디버깅 도구 | [Visit](https://jwt.io/) |
 | **Toss Payments** | 결제 API | [Visit](https://developers.tosspayments.com/) |
 | **Twilio** | 통신 API 플랫폼 | [Visit](https://www.twilio.com/) |
@@ -133,9 +116,9 @@
 
 | Name | Description | Link |
 | :--- | :--- | :--- |
-| **Kaggle** | 데이터 사이언티스트를 위한 더미 데이터 및 데이터셋 저장소 | [Visit](https://www.kaggle.com/) |
+| **Kaggle** | 전 세계 다양한 오픈 데이터셋 및 더미 데이터 저장소 | [Visit](https://www.kaggle.com/) |
 | **JSON Formatter** | JSON 포맷 정리 | [Visit](https://jsonformatter.curiousconcept.com/) |
-| **Hanipsum** | 한글 더미 텍스트 | [Visit](https://hanipsum.com/) |
+| **Hanipsum** | 한글 더미 텍스트 생성기 | [Visit](https://hanipsum.com/) |
 | **UUID Gen** | UUID 생성기 | [Visit](https://wepplication.github.io/tools/uuidGen/) |
 
 <br />
@@ -146,9 +129,8 @@
 | :--- | :--- | :--- |
 | **TIOBE Index** | 프로그래밍 언어 인기 지표 | [Visit](https://www.tiobe.com/tiobe-index/) |
 | **GeekNews** | IT 뉴스 큐레이션 | [Visit](https://news.hada.io/) |
-| **Elancer Blog** | IT 프리랜서 정보 | [Visit](https://www.elancer.co.kr/blog) |
 | **JoCoding** | 개발 유튜브 채널 | [Visit](https://www.youtube.com/@jocoding) |
-| **Developer Roadmaps** | 직군별 학습 로드맵 | [Visit](https://roadmap.sh/dashboard?fl=1) |
+| **Developer Roadmaps** | 직군별 학습 로드맵 | [Visit](https://roadmap.sh/) |
 
 ---
 
