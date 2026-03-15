@@ -31,13 +31,15 @@
 
 | Name | Description | Link |
 | :--- | :--- | :--- |
+| **Mercury2** | Inception Labs의 확산(Diffusion) 기반 초고속 LLM 모델 | [Visit](https://www.inceptionlabs.ai/) |
+| **나노바나나2** | 구글의 차세대 고성능 이미지 생성 AI 모델 | - |
 | **Veo 3.1** | 구글의 고성능 비디오 생성 AI | [Visit](https://deepmind.google/technologies/veo/) |
 | **Lyria 3** | 구글 DeepMind의 최신 AI 음악 생성 모델, 30초 음악 생성 가능 | [Visit](https://gemini.google/bf/overview/music-generation/) |
+| **LavaSR** | 리얼타임으로 작동하는 작고 빠른 음성 개선(Speech Restoration) AI | - |
 | **FLUX.2 [klein]** | 오픈소스 기반 초고속 이미지 생성 모델 | [Visit](https://huggingface.co/black-forest-labs) |
 | **Open GLM** | THUDM의 오픈소스 대규모 언어 모델 | [Visit](https://github.com/THUDM/ChatGLM3) |
 | **GLM-5** | 오픈소스 코딩 특화 LLM, 코드 작성 및 이해에 최적화 | [Visit](https://github.com/THUDM) |
 | **Qwen3-TTS** | 오픈소스 TTS, **한국어 포함** | [Visit](https://github.com/QwenLM) |
-| **Pocket TTS** | Kyutai의 초경량 오픈소스 TTS | [Visit](https://github.com/kyutai-labs) |
 | **OpenClaw** | 오픈소스 자율 AI 어시스턴트 | [Visit](https://openclaw.ai/) |
 | **Manus** | Meta가 인수한 자율 AI 에이전트 (복잡한 작업 자동 실행) | [Visit](https://manus.im/) |
 | **Krea AI** | 리얼타임 이미지 생성 AI | [Visit](https://www.krea.ai/) |
@@ -59,6 +61,9 @@
 
 | Name | Description | Link |
 | :--- | :--- | :--- |
+| **Quiver.ai** | 텍스트 기반 SVG 벡터 이미지 생성 AI 도구 | [Visit](https://quiver.ai/) |
+| **Stitch** | AI를 활용한 고도화된 디자인 및 레이아웃 생성 도구 | - |
+| **디자인아레나** | AI 모델별 디자인 퀄리티 및 성능 점수 비교 플랫폼 | [Visit](https://www.designarena.ai/) |
 | **Tailblocks** | Tailwind 디자인 블록 | [Visit](https://tailblocks.cc/) |
 | **Lottiefiles** | JSON 애니메이션 리소스 | [Visit](https://lottiefiles.com/) |
 
@@ -134,4 +139,4 @@
 
 ---
 
-마지막 업데이트: **2026-03-10**
+마지막 업데이트: **2026-03-15**
