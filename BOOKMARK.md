@@ -32,6 +32,8 @@
 | Name | Description | Link |
 | :--- | :--- | :--- |
 | **디자인아레나** | AI 모델별 디자인 생성 퀄리티 및 성능 점수 비교 플랫폼 | [Visit](https://www.designarena.ai/) |
+| **LTX-2** | Lightricks의 차세대 오픈소스 비디오 생성 AI 모델 | [Visit](https://github.com/Lightricks/LTX-Video) |
+| **Helios** | 실시간 상호작용이 가능한 오픈소스 영상 생성 엔진 | [Visit](https://github.com/lucidrains/helios-riddler) |
 | **Mercury2** | Inception Labs의 확산(Diffusion) 기반 초고속 LLM 모델 | [Visit](https://www.inceptionlabs.ai/) |
 | **나노바나나2** | 구글의 차세대 고성능 이미지 생성 AI 모델 | - |
 | **Veo 3.1** | 구글의 고성능 비디오 생성 AI | [Visit](https://deepmind.google/technologies/veo/) |
@@ -67,6 +69,7 @@
 
 | Name | Description | Link |
 | :--- | :--- | :--- |
+| **엔트로픽 코스** | Anthropic의 공식 무료 강의 - 프롬프트 엔지니어링 및 API 활용 | [Visit](https://github.com/anthropics/anthropic-cookbook) |
 | **Google CodeWiki** | 구글의 공식 개발 가이드 및 엔지니어링 문서 | [Visit](https://codewiki.google/) |
 | **AI 기본법 (대한민국)** | 2026년 시행 AI 기본법 전문 | [Visit](https://www.law.go.kr/) |
 
@@ -95,6 +98,7 @@
 
 | Name | Description | Link |
 | :--- | :--- | :--- |
+| **llmfit** | 하드웨어 사양별 최적의 AI 모델 및 추론 성능 계산 도구 | [Visit](https://llm.fit/) |
 | **Postman** | API 개발, 테스트 및 문서화 도구 | [Visit](https://www.postman.com/) |
 | **Grafana** | 데이터 시각화 및 메트릭 모니터링 대시보드 | [Visit](https://grafana.com/) |
 | **Prometheus** | 오픈소스 시계열 데이터 수집 및 알림 시스템 | [Visit](https://prometheus.io/) |
@@ -130,4 +134,4 @@
 
 ---
 
-마지막 업데이트: **2026-03-15**
+마지막 업데이트: **2026-03-20**
