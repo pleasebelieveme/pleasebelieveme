@@ -31,6 +31,9 @@
 
 | Name | Description | Link |
 | :--- | :--- | :--- |
+| **Ask Maps** | 구글 지도의 대화형 탐색 및 몰입형 네비게이션 AI 기능 | [Visit](https://blog.google/products/maps/) |
+| **Fish Audio S2** | 최신 오픈소스 기반 고품질 TTS 생성 AI 모델 | [Visit](https://fish.audio/) |
+| **rentahuman.ai** | AI가 인간의 신체적 대행을 요청하는 혁신적인 서비스 플랫폼 | [Visit](https://rentahuman.ai/) |
 | **디자인아레나** | AI 모델별 디자인 생성 퀄리티 및 성능 점수 비교 플랫폼 | [Visit](https://www.designarena.ai/) |
 | **LTX-2** | Lightricks의 차세대 오픈소스 비디오 생성 AI 모델 | [Visit](https://github.com/Lightricks/LTX-Video) |
 | **Helios** | 실시간 상호작용이 가능한 오픈소스 영상 생성 엔진 | [Visit](https://github.com/lucidrains/helios-riddler) |
@@ -98,6 +101,7 @@
 
 | Name | Description | Link |
 | :--- | :--- | :--- |
+| **canirun.ai** | 로컬 시스템의 GPU 성능 측정 및 최적의 AI 모델 추천 도구 | [Visit](https://canirun.ai/) |
 | **llmfit** | 하드웨어 사양별 최적의 AI 모델 및 추론 성능 계산 도구 | [Visit](https://llm.fit/) |
 | **Postman** | API 개발, 테스트 및 문서화 도구 | [Visit](https://www.postman.com/) |
 | **Grafana** | 데이터 시각화 및 메트릭 모니터링 대시보드 | [Visit](https://grafana.com/) |
@@ -134,4 +138,4 @@
 
 ---
 
-마지막 업데이트: **2026-03-20**
+마지막 업데이트: **2026-03-21**
