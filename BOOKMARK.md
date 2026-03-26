@@ -31,6 +31,10 @@
 
 | Name | Description | Link |
 | :--- | :--- | :--- |
+| **서울월드모델** | 카이스트-네이버 제작, 실제 세계를 정밀하게 시뮬레이션하는 모델 | - |
+| **inspatio** | 오픈소스 기반의 실시간 세계 4D 모델 생성 AI | - |
+| **키모도 (Kimodo)** | 엔비디아의 AI 기반 3D 모션 생성 및 애니메이션 도구 | - |
+| **naive** | 자율적으로 업무를 수행하는 차세대 AI 자율 직원 에이전트 | [Visit](https://naive.ai/) |
 | **Ask Maps** | 구글 지도의 대화형 탐색 및 몰입형 네비게이션 AI 기능 | [Visit](https://blog.google/products/maps/) |
 | **Fish Audio S2** | 최신 오픈소스 기반 고품질 TTS 생성 AI 모델 | [Visit](https://fish.audio/) |
 | **rentahuman.ai** | AI가 인간의 신체적 대행을 요청하는 혁신적인 서비스 플랫폼 | [Visit](https://rentahuman.ai/) |
@@ -38,10 +42,6 @@
 | **LTX-2** | Lightricks의 차세대 오픈소스 비디오 생성 AI 모델 | [Visit](https://github.com/Lightricks/LTX-Video) |
 | **Helios** | 실시간 상호작용이 가능한 오픈소스 영상 생성 엔진 | [Visit](https://github.com/lucidrains/helios-riddler) |
 | **Mercury2** | Inception Labs의 확산(Diffusion) 기반 초고속 LLM 모델 | [Visit](https://www.inceptionlabs.ai/) |
-| **나노바나나2** | 구글의 차세대 고성능 이미지 생성 AI 모델 | - |
-| **Veo 3.1** | 구글의 고성능 비디오 생성 AI | [Visit](https://deepmind.google/technologies/veo/) |
-| **Lyria 3** | 구글의 최신 AI 음악 생성 모델 (30초 고음질 생성) | [Visit](https://gemini.google/bf/overview/music-generation/) |
-| **LavaSR** | 실시간 음성 개선 및 복원 AI (경량화 및 빠른 속도) | - |
 | **Manus** | Meta가 인수한 자율 AI 에이전트 (복잡한 작업 자동화) | [Visit](https://manus.im/) |
 | **Krea AI** | 리얼타임 이미지 생성 및 업스케일링 AI | [Visit](https://www.krea.ai/) |
 
@@ -101,6 +101,8 @@
 
 | Name | Description | Link |
 | :--- | :--- | :--- |
+| **ClawRouter** | LLM API 호출 경로 최적화를 통해 추론 비용을 절감하는 도구 | - |
+| **Browser Use CLI** | CLI 환경에서 브라우저 자동화 및 조작을 가능하게 하는 도구 | [Visit](https://github.com/browser-use/browser-use) |
 | **canirun.ai** | 로컬 시스템의 GPU 성능 측정 및 최적의 AI 모델 추천 도구 | [Visit](https://canirun.ai/) |
 | **llmfit** | 하드웨어 사양별 최적의 AI 모델 및 추론 성능 계산 도구 | [Visit](https://llm.fit/) |
 | **Postman** | API 개발, 테스트 및 문서화 도구 | [Visit](https://www.postman.com/) |
@@ -121,6 +123,7 @@
 
 | Name | Description | Link |
 | :--- | :--- | :--- |
+| **Firebase** | 구글의 실시간 NoSQL 데이터베이스 및 앱 개발 플랫폼 | [Visit](https://firebase.google.com/) |
 | **FreeSQL** | 브라우저 내 라이브 SQL 테스트 및 쿼리 연습 환경 | [Visit](https://freesql.com/) |
 | **Kaggle** | 방대한 데이터셋 확보 및 데이터 분석 경진대회 | [Visit](https://www.kaggle.com/) |
 | **Hanipsum** | 개발용 한글 더미 텍스트(로렘 입숨) 생성기 | [Visit](https://hanipsum.com/) |
@@ -138,4 +141,4 @@
 
 ---
 
-마지막 업데이트: **2026-03-21**
+마지막 업데이트: **2026-03-26**
