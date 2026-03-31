@@ -31,6 +31,11 @@
 
 | Name | Description | Link |
 | :--- | :--- | :--- |
+| **LTX 2.3** | 최신 오픈소스 비디오 생성 AI 모델 (이전 버전 대비 성능 향상) | [Visit](https://github.com/Lightricks/LTX-Video) |
+| **understudy** | 시연을 통해 배우는 로컬 데스크톱 자동화 에이전트 | - |
+| **prism audio** | 음성이 없는 영상에 자연스러운 오디오를 입혀주는 AI | - |
+| **matrix-game 3.0** | 오픈소스 기반의 게임 생성 및 엔진 AI | - |
+| **cohere audio** | 오디오 데이터를 자막으로 변환해주는 오픈소스 AI | - |
 | **서울월드모델** | 카이스트-네이버 제작, 실제 세계를 정밀하게 시뮬레이션하는 모델 | - |
 | **inspatio** | 오픈소스 기반의 실시간 세계 4D 모델 생성 AI | - |
 | **키모도 (Kimodo)** | 엔비디아의 AI 기반 3D 모션 생성 및 애니메이션 도구 | - |
@@ -39,7 +44,6 @@
 | **Fish Audio S2** | 최신 오픈소스 기반 고품질 TTS 생성 AI 모델 | [Visit](https://fish.audio/) |
 | **rentahuman.ai** | AI가 인간의 신체적 대행을 요청하는 혁신적인 서비스 플랫폼 | [Visit](https://rentahuman.ai/) |
 | **디자인아레나** | AI 모델별 디자인 생성 퀄리티 및 성능 점수 비교 플랫폼 | [Visit](https://www.designarena.ai/) |
-| **LTX-2** | Lightricks의 차세대 오픈소스 비디오 생성 AI 모델 | [Visit](https://github.com/Lightricks/LTX-Video) |
 | **Helios** | 실시간 상호작용이 가능한 오픈소스 영상 생성 엔진 | [Visit](https://github.com/lucidrains/helios-riddler) |
 | **Mercury2** | Inception Labs의 확산(Diffusion) 기반 초고속 LLM 모델 | [Visit](https://www.inceptionlabs.ai/) |
 | **Manus** | Meta가 인수한 자율 AI 에이전트 (복잡한 작업 자동화) | [Visit](https://manus.im/) |
@@ -59,8 +63,11 @@
 
 ## <a name="uiux"></a>🎨 UI/UX & Design Assets
 
+> 디자인 도구 및 동영상 편집 리소스
+
 | Name | Description | Link |
 | :--- | :--- | :--- |
+| **capcut** | 직관적인 인터페이스의 올인원 동영상 편집 솔루션 | [Visit](https://www.capcut.com/) |
 | **Stitch** | AI 기반 차세대 디자인 시스템 및 레이아웃 생성 도구 | [Visit](https://stitch.cc/) |
 | **Quiver.ai** | 텍스트를 고품질 SVG 벡터 이미지로 변환하는 AI | [Visit](https://quiver.ai/) |
 | **Tailblocks** | Tailwind CSS 기반의 디자인 블록 라이브러리 | [Visit](https://tailblocks.cc/) |
@@ -82,6 +89,7 @@
 
 | Name | Description | Link |
 | :--- | :--- | :--- |
+| **impeccable** | 완벽한 프론트엔드 구현을 위한 AI Hanes 기반 핵심 스킬 가이드 | - |
 | **Next.js Docs** | 프레임워크 핵심 개념 및 API 레퍼런스 | [Visit](https://nextjs.org/docs) |
 | **Tailwind CSS** | 유틸리티 우선 CSS 프레임워크 문서 | [Visit](https://tailwindcss.com/docs) |
 
@@ -141,4 +149,4 @@
 
 ---
 
-마지막 업데이트: **2026-03-26**
+마지막 업데이트: **2026-03-31**
