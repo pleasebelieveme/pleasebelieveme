@@ -31,6 +31,8 @@
 
 | Name | Description | Link |
 | :--- | :--- | :--- |
+| **arena.ai** | 다양한 AI 모델의 성능을 실시간으로 비교하고 평가하는 벤치마킹 사이트 | [Visit](https://arena.ai/) |
+| **typecast** | 텍스트를 고품질 음성으로 변환하는 AI (유튜브, 뉴스 등 미디어 활용) | [Visit](https://typecast.ai/) |
 | **LTX 2.3** | 최신 오픈소스 비디오 생성 AI 모델 (이전 버전 대비 성능 향상) | [Visit](https://github.com/Lightricks/LTX-Video) |
 | **understudy** | 시연을 통해 배우는 로컬 데스크톱 자동화 에이전트 | - |
 | **prism audio** | 음성이 없는 영상에 자연스러운 오디오를 입혀주는 AI | - |
@@ -67,6 +69,8 @@
 
 | Name | Description | Link |
 | :--- | :--- | :--- |
+| **opencut** | 인기 편집 도구 CapCut의 기능을 재현한 오픈소스 영상 편집기 | [Visit](https://github.com/opencut/opencut) |
+| **Awesome Design MD** | 에이전트 및 전문 디자인 작업을 위한 정식 디자인 가이드 및 파일 모음 | - |
 | **capcut** | 직관적인 인터페이스의 올인원 동영상 편집 솔루션 | [Visit](https://www.capcut.com/) |
 | **Stitch** | AI 기반 차세대 디자인 시스템 및 레이아웃 생성 도구 | [Visit](https://stitch.cc/) |
 | **Quiver.ai** | 텍스트를 고품질 SVG 벡터 이미지로 변환하는 AI | [Visit](https://quiver.ai/) |
@@ -79,6 +83,7 @@
 
 | Name | Description | Link |
 | :--- | :--- | :--- |
+| **k-skill** | 한국인 개발자와 학습자를 위해 엄선된 분야별 스킬셋 가이드 모음 | - |
 | **엔트로픽 코스** | Anthropic의 공식 무료 강의 - 프롬프트 엔지니어링 및 API 활용 | [Visit](https://github.com/anthropics/anthropic-cookbook) |
 | **Google CodeWiki** | 구글의 공식 개발 가이드 및 엔지니어링 문서 | [Visit](https://codewiki.google/) |
 | **AI 기본법 (대한민국)** | 2026년 시행 AI 기본법 전문 | [Visit](https://www.law.go.kr/) |
@@ -99,6 +104,7 @@
 
 | Name | Description | Link |
 | :--- | :--- | :--- |
+| **android-sms-gateway** | 안드로이드 폰과 유심을 활용한 오픈소스 SMS 게이트웨이 (Twilio 대안) | [Visit](https://github.com/android-sms-gateway/android-sms-gateway) |
 | **JWT.io** | JSON Web Token 디버깅 및 구조 확인 | [Visit](https://jwt.io/) |
 | **Toss Payments** | 국내 결제 연동 API 가이드 | [Visit](https://developers.tosspayments.com/) |
 | **Twilio** | SMS, 음성 통신 API 플랫폼 | [Visit](https://www.twilio.com/) |
@@ -149,4 +155,4 @@
 
 ---
 
-마지막 업데이트: **2026-03-31**
+마지막 업데이트: **2026-04-09**
