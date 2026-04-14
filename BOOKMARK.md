@@ -31,6 +31,9 @@
 
 | Name | Description | Link |
 | :--- | :--- | :--- |
+| **HappyHorse** | 알리바바(Alibaba)에서 공개한 고성능 영상 생성 AI 모델 | - |
+| **VoxCPM** | 텍스트를 자연스러운 음성으로 변환하는 오픈소스 TTS 라이브러리 | - |
+| **reverse-synthID** | 나노바나나(Gemini 3 Flash Image)의 SynthID 워터마크 제거 라이브러리 | - |
 | **arena.ai** | 다양한 AI 모델의 성능을 실시간으로 비교하고 평가하는 벤치마킹 사이트 | [Visit](https://arena.ai/) |
 | **typecast** | 텍스트를 고품질 음성으로 변환하는 AI (유튜브, 뉴스 등 미디어 활용) | [Visit](https://typecast.ai/) |
 | **LTX 2.3** | 최신 오픈소스 비디오 생성 AI 모델 (이전 버전 대비 성능 향상) | [Visit](https://github.com/Lightricks/LTX-Video) |
@@ -115,6 +118,7 @@
 
 | Name | Description | Link |
 | :--- | :--- | :--- |
+| **badclaude** | 클로드(Claude) 에이전트의 피드백 속도와 엄격함을 제어하는 최적화 프로그램 | - |
 | **ClawRouter** | LLM API 호출 경로 최적화를 통해 추론 비용을 절감하는 도구 | - |
 | **Browser Use CLI** | CLI 환경에서 브라우저 자동화 및 조작을 가능하게 하는 도구 | [Visit](https://github.com/browser-use/browser-use) |
 | **canirun.ai** | 로컬 시스템의 GPU 성능 측정 및 최적의 AI 모델 추천 도구 | [Visit](https://canirun.ai/) |
@@ -155,4 +159,4 @@
 
 ---
 
-마지막 업데이트: **2026-04-09**
+마지막 업데이트: **2026-04-14**
