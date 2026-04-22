@@ -31,6 +31,12 @@
 
 | Name | Description | Link |
 | :--- | :--- | :--- |
+| **SuperGemma4** | 한국어 최적화 및 비검열 설정을 포함한 커스텀 젬마4 모델 | - |
+| **google flow music** | 구글의 음악 및 뮤직비디오 동시 생성 AI 모델 | - |
+| **omnishow** | 제품 홍보 및 마케팅을 위한 쇼츠 영상 자동 생성 AI | - |
+| **HY-World 2.0** | 오픈소스 기반의 고정밀 3D 월드 생성 AI 모델 | - |
+| **lyra** | 엔비디아(NVIDIA)에서 공개한 오픈소스 3D 월드 생성 AI | - |
+| **hermes-agent** | 오픈소스 에이전트의 다양한 변환 버전을 지원하는 에이전트 프레임워크 | - |
 | **HappyHorse** | 알리바바(Alibaba)에서 공개한 고성능 영상 생성 AI 모델 | - |
 | **VoxCPM** | 텍스트를 자연스러운 음성으로 변환하는 오픈소스 TTS 라이브러리 | - |
 | **reverse-synthID** | 나노바나나(Gemini 3 Flash Image)의 SynthID 워터마크 제거 라이브러리 | - |
@@ -72,6 +78,7 @@
 
 | Name | Description | Link |
 | :--- | :--- | :--- |
+| **quiver** | 고품질 SVG 벡터 이미지 생성에 특화된 전문 AI 도구 | - |
 | **opencut** | 인기 편집 도구 CapCut의 기능을 재현한 오픈소스 영상 편집기 | [Visit](https://github.com/opencut/opencut) |
 | **Awesome Design MD** | 에이전트 및 전문 디자인 작업을 위한 정식 디자인 가이드 및 파일 모음 | - |
 | **capcut** | 직관적인 인터페이스의 올인원 동영상 편집 솔루션 | [Visit](https://www.capcut.com/) |
@@ -159,4 +166,4 @@
 
 ---
 
-마지막 업데이트: **2026-04-14**
+마지막 업데이트: **2026-04-22**
