@@ -31,6 +31,8 @@
 
 | Name | Description | Link |
 | :--- | :--- | :--- |
+| **awesome-gpt-image-2** | GPT를 활용한 이미지 생성 시 최적의 결과물을 얻기 위한 프롬프트 예시 모음 | - |
+| **openai-privacy-filter** | LLM 프롬프트 작성 시 민감한 개인정보를 자동으로 식별하고 가려주는 보안 도구 | - |
 | **SuperGemma4** | 한국어 최적화 및 비검열 설정을 포함한 커스텀 젬마4 모델 | - |
 | **google flow music** | 구글의 음악 및 뮤직비디오 동시 생성 AI 모델 | - |
 | **omnishow** | 제품 홍보 및 마케팅을 위한 쇼츠 영상 자동 생성 AI | - |
@@ -148,6 +150,8 @@
 
 | Name | Description | Link |
 | :--- | :--- | :--- |
+| **SQL Flow** | 복잡하고 긴 SQL 쿼리의 데이터 흐름(Lineage)을 시각화하여 한눈에 파악 | [Visit](https://sqlflow.gudusoft.com/#/) |
+| **Instant SQL Formatter** | 들여쓰기나 형식이 엉망인 SQL 쿼리를 표준 형식으로 깔끔하게 정리 | [Visit](https://www.dpriver.com/pp/sqlformat.htm) |
 | **Firebase** | 구글의 실시간 NoSQL 데이터베이스 및 앱 개발 플랫폼 | [Visit](https://firebase.google.com/) |
 | **FreeSQL** | 브라우저 내 라이브 SQL 테스트 및 쿼리 연습 환경 | [Visit](https://freesql.com/) |
 | **Kaggle** | 방대한 데이터셋 확보 및 데이터 분석 경진대회 | [Visit](https://www.kaggle.com/) |
@@ -166,4 +170,4 @@
 
 ---
 
-마지막 업데이트: **2026-04-22**
+마지막 업데이트: **2026-04-30**
