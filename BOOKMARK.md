@@ -116,6 +116,7 @@
 
 | Name | Description | Link |
 | :--- | :--- | :--- |
+| **Stripe Link (@link)** | 자율 AI 에이전트가 사용자 인증(OAuth)을 통해 안전하게 결제할 수 있도록 지원하는 디지털 지갑 | [Visit](https://link.com/) |
 | **android-sms-gateway** | 안드로이드 폰과 유심을 활용한 오픈소스 SMS 게이트웨이 (Twilio 대안) | [Visit](https://github.com/android-sms-gateway/android-sms-gateway) |
 | **JWT.io** | JSON Web Token 디버깅 및 구조 확인 | [Visit](https://jwt.io/) |
 | **Toss Payments** | 국내 결제 연동 API 가이드 | [Visit](https://developers.tosspayments.com/) |
@@ -170,4 +171,4 @@
 
 ---
 
-마지막 업데이트: **2026-04-30**
+마지막 업데이트: **2026-05-05**
