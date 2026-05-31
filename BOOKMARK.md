@@ -31,6 +31,8 @@
 
 | Name | Description | Link |
 | :--- | :--- | :--- |
+| **Lance** | 텍스트-비디오 생성, 비디오 편집, 영상 추론(VQA)을 단일 프레임워크로 처리하는 바이트댄스의 3B 규모 멀티모달 오픈소스 모델 (Apache-2.0) | [Visit](https://github.com/bytedance/Lance) |
+| **Longcat-Video-Avatar 1.5** | 메이투안(Meituan)이 공개한 생산성 중심의 고성능 오픈소스 AI 아바타/디지털 휴먼 생성 프레임워크 (Whisper-Large 기반 립싱크 및 롱폼 최적화) | [Visit](https://github.com/meigen-ai/LongCat-Video-Avatar-1.5-Page) |
 | **remove-ai-watermarks** | AI가 생성한 이미지, 영상 또는 텍스트 내의 눈에 보이지 않는 워터마크 및 추적용 마커를 식별하고 제거해주는 도구 | - |
 | **financial-services** | Anthropic(엔트로픽)이 공개한 금융 데이터 분석 및 서비스 특화 AI 에이전트 | - |
 | **open-design** | Anthropic Claude의 디자인/아티팩트 생성 기능을 재현한 오픈소스 버전의 프론트엔드 디자인 도구 | - |
@@ -183,4 +185,4 @@
 
 ---
 
-마지막 업데이트: **2026-05-31**
+마지막 업데이트: **2026-06-01**
