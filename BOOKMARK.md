@@ -31,6 +31,7 @@
 
 | Name | Description | Link |
 | :--- | :--- | :--- |
+| **remove-ai-watermarks** | AI가 생성한 이미지, 영상 또는 텍스트 내의 눈에 보이지 않는 워터마크 및 추적용 마커를 식별하고 제거해주는 도구 | - |
 | **financial-services** | Anthropic(엔트로픽)이 공개한 금융 데이터 분석 및 서비스 특화 AI 에이전트 | - |
 | **open-design** | Anthropic Claude의 디자인/아티팩트 생성 기능을 재현한 오픈소스 버전의 프론트엔드 디자인 도구 | - |
 | **phymotion** | AI 영상 생성이나 편집 과정에서 발생하는 왜곡, 깨짐 등 오류 부분을 정밀하게 보정하는 AI | - |
@@ -138,6 +139,7 @@
 
 | Name | Description | Link |
 | :--- | :--- | :--- |
+| **Antigravity CLI** | 구글이 선셋하는 Gemini CLI를 대체하기 위해 출시한 터미널 기반 다중 에이전트 오케스트레이션 및 코드 생성 툴 | [Visit](https://antigravity.google/product/antigravity-cli) |
 | **badclaude** | 클로드(Claude) 에이전트의 피드백 속도와 엄격함을 제어하는 최적화 프로그램 | - |
 | **ClawRouter** | LLM API 호출 경로 최적화를 통해 추론 비용을 절감하는 도구 | - |
 | **Browser Use CLI** | CLI 환경에서 브라우저 자동화 및 조작을 가능하게 하는 도구 | [Visit](https://github.com/browser-use/browser-use) |
@@ -181,4 +183,4 @@
 
 ---
 
-마지막 업데이트: **2026-05-30**
+마지막 업데이트: **2026-05-31**
