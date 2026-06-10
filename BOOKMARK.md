@@ -31,6 +31,11 @@
 
 | Name | Description | Link |
 | :--- | :--- | :--- |
+| **Microsoft Scout** | 사용자의 백그라운드 환경에서 항상 실행(Always-on)되며 복잡한 작업 흐름을 자율적으로 수행하는 마이크로소프트의 오토파일럿 AI 에이전트 | - |
+| **ideogram 4.0** | 타이포그래피와 이미지 합성 능력이 대폭 향상된 최신 이미지 생성 모델 (오픈 웨이트 제공, 상업적 이용 불가) | - |
+| **reve 2.0** | 디테일 표현과 사실감이 극대화된 차세대 고해상도 생성형 이미지 모델 | - |
+| **bernini** | 구글 제미나이 옴니(Gemini Omni) 아키텍처를 기반으로 한, 오픈소스 형태의 혁신적인 3D 및 비디오 영상 변형 모델 | - |
+| **miso one** | 인간 특유의 미묘한 어조와 감정선을 완벽하게 구현하여 '세계에서 가장 감정적인 음성 모델'로 평가받는 AI 오디오 기술 | - |
 | **nvidia PiD** | 기존 VAE 디코더를 대체하여 단 4샘플링 단계 만으로 레이턴트 표현을 고정밀 4K/2K 화질로 직접 렌더링·업스케일링하는 엔비디아의 오픈소스 픽셀 디퓨전 디코더 | [Visit](https://github.com/nv-tlabs/PiD) |
 | **sesame ai** | 뛰어난 언어 표현력과 맥락 이해로 실제 사람과 통화하듯 자연스럽고 지연 없는 대화를 지원하는 차세대 실시간 오디오/음성 AI 에이전트 | [Visit](https://www.sesame.com/) |
 | **Lance** | 텍스트-비디오 생성, 비디오 편집, 영상 추론(VQA)을 단일 프레임워크로 처리하는 바이트댄스의 3B 규모 멀티모달 오픈소스 모델 (Apache-2.0) | [Visit](https://github.com/bytedance/Lance) |
@@ -39,7 +44,7 @@
 | **financial-services** | Anthropic(엔트로픽)이 공개한 금융 데이터 분석 및 서비스 특화 AI 에이전트 | - |
 | **open-design** | Anthropic Claude의 디자인/아티팩트 생성 기능을 재현한 오픈소스 버전의 프론트엔드 디자인 도구 | - |
 | **phymotion** | AI 영상 생성이나 편집 과정에서 발생하는 왜곡, 깨짐 등 오류 부분을 정밀하게 보정하는 AI | - |
-| **relit-live** | 기존 영상이나 이미지의 광원 위치 and 조명 연출을 실시간처럼 자연스럽게 재구성하는 AI | - |
+| **relit-live** | 기존 영상이나 이미지의 광원 위치 및 조명 연출을 실시간처럼 자연스럽게 재구성하는 AI | - |
 | **kimi k2.6** | 고성능 긴 문맥(Long-context) 처리를 지원하는 최신 오픈소스 LLM 모델 | - |
 | **구글 pomelli** | 마케팅 및 광고 배너 최적화 이미지를 자동으로 생성해주는 Google의 AI 도구 | - |
 | **hermes** | 자율적인 작업 수행 및 도구 사용에 최적화된 차세대 AI 에이전트 모델 | - |
@@ -181,10 +186,11 @@
 
 | Name | Description | Link |
 | :--- | :--- | :--- |
+| **조코헌트 (Jocohunt)** | 유용하고 기발한 국내외 웹·앱 인디 서비스들을 소개하고 공유하는 플랫폼 | [Visit](https://jocohunt.jocoding.io/) |
 | **GeekNews** | 국내외 최신 IT 기술 소식 큐레이션 | [Visit](https://news.hada.io/) |
 | **Developer Roadmaps** | 직군별/기술별 필수 학습 로드맵 가이드 | [Visit](https://roadmap.sh/) |
 | **JoCoding** | 비전공자도 이해하기 쉬운 IT 트렌드 유튜브 | [Visit](https://www.youtube.com/@jocoding) |
 
 ---
 
-마지막 업데이트: **2026-06-02**
+마지막 업데이트: **2026-06-10**
