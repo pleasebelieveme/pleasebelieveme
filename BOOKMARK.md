@@ -31,6 +31,10 @@
 
 | Name | Description | Link |
 | :--- | :--- | :--- |
+| **DiffusionGemma** | 기존의 순차적(Left-to-right) 토큰 생성 방식에서 벗어나 디퓨전 기술로 256토큰 문단을 통째로 찍어내어 생성 속도를 4배 향상시킨 구글의 혁신적인 오픈소스 MoE 모델 | [Visit](https://ai.google.dev/gemma/docs/diffusiongemma) |
+| **dots.tts** | 오디오 소리를 이산 토큰으로 쪼개지 않고 연속적인 잠재 공간(Continuous Latent)에서 직접 처리하여 54ms의 극저지연 스트리밍과 완벽한 감정 추론을 구현한 오픈소스 음성 AI (Apache-2.0) | [Visit](https://github.com/rednote-hilab/dots.tts) |
+| **MiniMax M3** | 100만 토큰의 초대형 컨텍스트와 독자적인 Sparse Attention(MSA) 기법을 탑재하여 최대 30분 분량의 영상 이해 및 장기 코딩 작업에 특화된 428B 규모의 중국 오픈소스 멀티모달 모델 | [Visit](https://github.com/MiniMax-AI/MiniMax-M3) |
+| **Kimi K2.7-Code** | Moonshot AI가 릴리즈한 차세대 자율 코딩 에이전트 모델. 이전 버전 대비 고속 모드(HighSpeed Mode)를 탑재하고 추론 과정에서 사고(Thinking) 토큰 소모량을 30% 절감 | [Visit](https://unsloth.ai/docs/models/kimi-k2.7-code) |
 | **Microsoft Scout** | 사용자의 백그라운드 환경에서 항상 실행(Always-on)되며 복잡한 작업 흐름을 자율적으로 수행하는 마이크로소프트의 오토파일럿 AI 에이전트 | - |
 | **ideogram 4.0** | 타이포그래피와 이미지 합성 능력이 대폭 향상된 최신 이미지 생성 모델 (오픈 웨이트 제공, 상업적 이용 불가) | - |
 | **reve 2.0** | 디테일 표현과 사실감이 극대화된 차세대 고해상도 생성형 이미지 모델 | - |
@@ -45,7 +49,6 @@
 | **open-design** | Anthropic Claude의 디자인/아티팩트 생성 기능을 재현한 오픈소스 버전의 프론트엔드 디자인 도구 | - |
 | **phymotion** | AI 영상 생성이나 편집 과정에서 발생하는 왜곡, 깨짐 등 오류 부분을 정밀하게 보정하는 AI | - |
 | **relit-live** | 기존 영상이나 이미지의 광원 위치 및 조명 연출을 실시간처럼 자연스럽게 재구성하는 AI | - |
-| **kimi k2.6** | 고성능 긴 문맥(Long-context) 처리를 지원하는 최신 오픈소스 LLM 모델 | - |
 | **구글 pomelli** | 마케팅 및 광고 배너 최적화 이미지를 자동으로 생성해주는 Google의 AI 도구 | - |
 | **hermes** | 자율적인 작업 수행 및 도구 사용에 최적화된 차세대 AI 에이전트 모델 | - |
 | **lightning pixel** | 오픈소스 기반으로 고정밀 3D 에셋 및 입체 모델을 빠르게 렌더링하는 AI | - |
@@ -136,6 +139,7 @@
 
 | Name | Description | Link |
 | :--- | :--- | :--- |
+| **OpenRouter** | OpenAI, Anthropic, Google, Meta 등 수많은 글로벌 AI 기업 및 오픈소스 진영의 LLM API를 단 하나의 규격화된 통합 엔드포인트로 사용할 수 있도록 가교 역할을 해주는 서비스 | [Visit](https://openrouter.ai/) |
 | **Stripe Link (@link)** | 자율 AI 에이전트가 사용자 인증(OAuth)을 통해 안전하게 결제할 수 있도록 지원하는 디지털 지갑 | [Visit](https://link.com/) |
 | **android-sms-gateway** | 안드로이드 폰과 유심을 활용한 오픈소스 SMS 게이트웨이 (Twilio 대안) | [Visit](https://github.com/android-sms-gateway/android-sms-gateway) |
 | **JWT.io** | JSON Web Token 디버깅 및 구조 확인 | [Visit](https://jwt.io/) |
@@ -193,4 +197,4 @@
 
 ---
 
-마지막 업데이트: **2026-06-10**
+마지막 업데이트: **2026-06-16**
