@@ -31,6 +31,7 @@
 
 | Name | Description | Link |
 | :--- | :--- | :--- |
+| **GLM-5.2** | 744B 대규모 MoE 구조와 100만 토큰(1M) 컨텍스트 윈도우를 지원하며, 장기 자율 코딩 및 소프트웨어 공학 작업에서 상용 프론티어 모델 수준의 SOTA 성능을 기록한 제한 없는 MIT 라이선스의 최강 오픈웨이트 모델 | [Visit](https://github.com/THUDM/GLM-5) |
 | **DiffusionGemma** | 기존의 순차적(Left-to-right) 토큰 생성 방식에서 벗어나 디퓨전 기술로 256토큰 문단을 통째로 찍어내어 생성 속도를 4배 향상시킨 구글의 혁신적인 오픈소스 MoE 모델 | [Visit](https://ai.google.dev/gemma/docs/diffusiongemma) |
 | **dots.tts** | 오디오 소리를 이산 토큰으로 쪼개지 않고 연속적인 잠재 공간(Continuous Latent)에서 직접 처리하여 54ms의 극저지연 스트리밍과 완벽한 감정 추론을 구현한 오픈소스 음성 AI (Apache-2.0) | [Visit](https://github.com/rednote-hilab/dots.tts) |
 | **MiniMax M3** | 100만 토큰의 초대형 컨텍스트와 독자적인 Sparse Attention(MSA) 기법을 탑재하여 최대 30분 분량의 영상 이해 및 장기 코딩 작업에 특화된 428B 규모의 중국 오픈소스 멀티모달 모델 | [Visit](https://github.com/MiniMax-AI/MiniMax-M3) |
@@ -197,4 +198,4 @@
 
 ---
 
-마지막 업데이트: **2026-06-16**
+마지막 업데이트: **2026-06-23**
