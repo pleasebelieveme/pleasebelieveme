@@ -36,6 +36,11 @@
 | **dots.tts** | 오디오 소리를 이산 토큰으로 쪼개지 않고 연속적인 잠재 공간(Continuous Latent)에서 직접 처리하여 54ms의 극저지연 스트리밍과 완벽한 감정 추론을 구현한 오픈소스 음성 AI (Apache-2.0) | [Visit](https://github.com/rednote-hilab/dots.tts) |
 | **MiniMax M3** | 100만 토큰의 초대형 컨텍스트와 독자적인 Sparse Attention(MSA) 기법을 탑재하여 최대 30분 분량의 영상 이해 및 장기 코딩 작업에 특화된 428B 규모의 중국 오픈소스 멀티모달 모델 | [Visit](https://github.com/MiniMax-AI/MiniMax-M3) |
 | **Kimi K2.7-Code** | Moonshot AI가 릴리즈한 차세대 자율 코딩 에이전트 모델. 이전 버전 대비 고속 모드(HighSpeed Mode)를 탑재하고 추론 과정에서 사고(Thinking) 토큰 소모량을 30% 절감 | [Visit](https://unsloth.ai/docs/models/kimi-k2.7-code) |
+| **Sakana Fugu** | 사카나 AI가 공개한 자율주행 데이터 분석 및 제안 아키텍처. 비전, 센서로그, 제어 주행용 모델 등 이종의 전문 AI들을 유기적으로 결합(Merge/Ensemble)하여 상황을 다각도로 분석하고 최적의 주행 판단을 도출하는 지능형 시스템 | [Visit](https://sakana.ai/blog/) |
+| **Unity AI** | 유니티 게임 엔진과 실시간 개발 워크플로우에 결합되어 3D 에셋 배치, 실시간 셰이더 제어, 물리 시뮬레이션 코드 최적화를 돕는 Unity 인프라 전용 자율 3D 제작/보조 AI 에이전트 | [Visit](https://unity.com/products/unity-ai) |
+| **Ornith 1.0** | 소프트웨어 개발 프로젝트의 전체 컨텍스트와 디렉토리 구조를 자율적으로 분석하고 복잡한 버그 수정, 기능 확장, 멀티 파일 리팩토링 작업을 최적화된 토큰 비용으로 완벽하게 조율하는 에이전트 코딩 특화 오픈소스 AI | [Visit](https://github.com/ornith-ai/ornith) |
+| **Wan Streamer** | 실시간 라이브 스트리밍 환경에서 시청자의 실시간 채팅 텍스트와 영상 리액션을 지연 없이 실시간으로 파악하여 상호작용과 음성 대화를 자율적으로 이끌어가는 가상 스트리머 에이전트 기술 | - |
+| **Krea 2** | 초고속 실시간 이미지 생성 및 정밀 업스케일링 퀄리티가 비약적으로 강화되었으며, 연 매출 혹은 펀딩 금액 100만 달러(약 13~14억 원) 미만의 중소 규모 팀 및 개발자에게 무료 상업적 이용(Commercial Use) 라이선스를 허용한 차세대 비주얼 AI 엔진 | [Visit](https://www.krea.ai/) |
 | **Microsoft Scout** | 사용자의 백그라운드 환경에서 항상 실행(Always-on)되며 복잡한 작업 흐름을 자율적으로 수행하는 마이크로소프트의 오토파일럿 AI 에이전트 | - |
 | **ideogram 4.0** | 타이포그래피와 이미지 합성 능력이 대폭 향상된 최신 이미지 생성 모델 (오픈 웨이트 제공, 상업적 이용 불가) | - |
 | **reve 2.0** | 디테일 표현과 사실감이 극대화된 차세대 고해상도 생성형 이미지 모델 | - |
@@ -82,7 +87,6 @@
 | **Helios** | 실시간 상호작용이 가능한 오픈소스 영상 생성 엔진 | [Visit](https://github.com/lucidrains/helios-riddler) |
 | **Mercury2** | Inception Labs의 확산(Diffusion) 기반 초고속 LLM 모델 | [Visit](https://www.inceptionlabs.ai/) |
 | **Manus** | Meta가 인수한 자율 AI 에이전트 (복잡한 작업 자동화) | [Visit](https://manus.im/) |
-| **Krea AI** | 리얼타임 이미지 생성 및 업스케일링 AI | [Visit](https://www.krea.ai/) |
 
 <br />
 
@@ -198,4 +202,4 @@
 
 ---
 
-마지막 업데이트: **2026-06-23**
+마지막 업데이트: **2026-06-30**
