@@ -34,6 +34,8 @@
 | **GLM-5.2** | 744B 대규모 MoE 구조와 100만 토큰(1M) 컨텍스트 윈도우를 지원하며, 장기 자율 코딩 및 소프트웨어 공학 작업에서 상용 프론티어 모델 수준의 SOTA 성능을 기록한 제한 없는 MIT 라이선스의 최강 오픈웨이트 모델 | [Visit](https://github.com/THUDM/GLM-5) |
 | **DiffusionGemma** | 기존의 순차적(Left-to-right) 토큰 생성 방식에서 벗어나 디퓨전 기술로 256토큰 문단을 통째로 찍어내어 생성 속도를 4배 향상시킨 구글의 혁신적인 오픈소스 MoE 모델 | [Visit](https://ai.google.dev/gemma/docs/diffusiongemma) |
 | **dots.tts** | 오디오 소리를 이산 토큰으로 쪼개지 않고 연속적인 잠재 공간(Continuous Latent)에서 직접 처리하여 54ms의 극저지연 스트리밍과 완벽한 감정 추론을 구현한 오픈소스 음성 AI (Apache-2.0) | [Visit](https://github.com/rednote-hilab/dots.tts) |
+| **Longcat 2.0** | 메이훠안(Meituan)이 전면 공개한 1.6조(1.6T) 파라미터 규모의 최강 오픈소스 MoE 모델. 중국 내수용 가속기 칩 5만 장 클러스터로 완벽 정복했으며 뛰어난 툴 사용(Tool Use) 능력과 다중 언어 SWE-bench 장악력을 지닌 초거대 아키텍처 | [Visit](https://github.com/meigen-ai) |
+| **MrFlow** | Flow Matching 기반 이미지 모델(FLUX, Qwen-Image 등)의 추론 속도를 극대화하는 학습 불필요(Training-free) 가속 프레임워크. 저해상도 선행 연산 후 픽셀 리파인 단계를 거쳐 최대 25배 속도 향상 구현 | [Visit](https://github.com/comfyanonymous/ComfyUI) |
 | **MiniMax M3** | 100만 토큰의 초대형 컨텍스트와 독자적인 Sparse Attention(MSA) 기법을 탑재하여 최대 30분 분량의 영상 이해 및 장기 코딩 작업에 특화된 428B 규모의 중국 오픈소스 멀티모달 모델 | [Visit](https://github.com/MiniMax-AI/MiniMax-M3) |
 | **Kimi K2.7-Code** | Moonshot AI가 릴리즈한 차세대 자율 코딩 에이전트 모델. 이전 버전 대비 고속 모드(HighSpeed Mode)를 탑재하고 추론 과정에서 사고(Thinking) 토큰 소모량을 30% 절감 | [Visit](https://unsloth.ai/docs/models/kimi-k2.7-code) |
 | **Sakana Fugu** | 사카나 AI가 공개한 자율주행 데이터 분석 및 제안 아키텍처. 비전, 센서로그, 제어 주행용 모델 등 이종의 전문 AI들을 유기적으로 결합(Merge/Ensemble)하여 상황을 다각도로 분석하고 최적의 주행 판단을 도출하는 지능형 시스템 | [Visit](https://sakana.ai/blog/) |
@@ -43,7 +45,7 @@
 | **Krea 2** | 초고속 실시간 이미지 생성 및 정밀 업스케일링 퀄리티가 비약적으로 강화되었으며, 연 매출 혹은 펀딩 금액 100만 달러(약 13~14억 원) 미만의 중소 규모 팀 및 개발자에게 무료 상업적 이용(Commercial Use) 라이선스를 허용한 차세대 비주얼 AI 엔진 | [Visit](https://www.krea.ai/) |
 | **Microsoft Scout** | 사용자의 백그라운드 환경에서 항상 실행(Always-on)되며 복잡한 작업 흐름을 자율적으로 수행하는 마이크로소프트의 오토파일럿 AI 에이전트 | - |
 | **ideogram 4.0** | 타이포그래피와 이미지 합성 능력이 대폭 향상된 최신 이미지 생성 모델 (오픈 웨이트 제공, 상업적 이용 불가) | - |
-| **reve 2.0** | 디테일 표현과 사실감이 극대화된 차세대 고해상도 생성형 이미지 모델 | - |
+| **reve 2.0** | 디테일 표현และ 사실감이 극대화된 차세대 고해상도 생성형 이미지 모델 | - |
 | **bernini** | 구글 제미나이 옴니(Gemini Omni) 아키텍처를 기반으로 한, 오픈소스 형태의 혁신적인 3D 및 비디오 영상 변형 모델 | - |
 | **miso one** | 인간 특유의 미묘한 어조와 감정선을 완벽하게 구현하여 '세계에서 가장 감정적인 음성 모델'로 평가받는 AI 오디오 기술 | - |
 | **nvidia PiD** | 기존 VAE 디코더를 대체하여 단 4샘플링 단계 만으로 레이턴트 표현을 고정밀 4K/2K 화질로 직접 렌더링·업스케일링하는 엔비디아의 오픈소스 픽셀 디퓨전 디코더 | [Visit](https://github.com/nv-tlabs/PiD) |
@@ -202,4 +204,4 @@
 
 ---
 
-마지막 업데이트: **2026-06-30**
+마지막 업데이트: **2026-07-07**
