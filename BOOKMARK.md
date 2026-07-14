@@ -31,6 +31,9 @@
 
 | Name | Description | Link |
 | :--- | :--- | :--- |
+| **MUSE SPARK 1.1** | 메타(Meta)가 공개한 코딩 및 에이전트 환경에 고도화된 AI 모델. 스크립트 작성부터 파일 제어까지 유기적인 자율 작업을 지휘하며, 에이전트 구동 안정성이 대폭 강화됨 | [Visit](https://ai.meta.com/) |
+| **Lingbot-World-2** | 중국 앤트그룹(Ant Group)이 릴리즈한 혁신적인 오픈소스 멀티모달 '월드 모델'. 720p/60fps 환경에서 최대 1시간 동안 일관된 가상 환경을 연속 구동 및 인터랙티브 제어 가능 | - |
+| **Wan-Streamer 0.2** | 640x368 해상도 업그레이드와 동시에 모델 자체 레이턴시를 200ms 수준으로 정복한 실시간 시각-청각 아바타 대화 모델. 완벽한 상반신/손동작 싱크 구현 | [Visit](https://github.com/modelscope/wan) |
 | **GLM-5.2** | 744B 대규모 MoE 구조와 100만 토큰(1M) 컨텍스트 윈도우를 지원하며, 장기 자율 코딩 및 소프트웨어 공학 작업에서 상용 프론티어 모델 수준의 SOTA 성능을 기록한 제한 없는 MIT 라이선스의 최강 오픈웨이트 모델 | [Visit](https://github.com/THUDM/GLM-5) |
 | **DiffusionGemma** | 기존의 순차적(Left-to-right) 토큰 생성 방식에서 벗어나 디퓨전 기술로 256토큰 문단을 통째로 찍어내어 생성 속도를 4배 향상시킨 구글의 혁신적인 오픈소스 MoE 모델 | [Visit](https://ai.google.dev/gemma/docs/diffusiongemma) |
 | **dots.tts** | 오디오 소리를 이산 토큰으로 쪼개지 않고 연속적인 잠재 공간(Continuous Latent)에서 직접 처리하여 54ms의 극저지연 스트리밍과 완벽한 감정 추론을 구현한 오픈소스 음성 AI (Apache-2.0) | [Visit](https://github.com/rednote-hilab/dots.tts) |
@@ -41,7 +44,6 @@
 | **Sakana Fugu** | 사카나 AI가 공개한 자율주행 데이터 분석 및 제안 아키텍처. 비전, 센서로그, 제어 주행용 모델 등 이종의 전문 AI들을 유기적으로 결합(Merge/Ensemble)하여 상황을 다각도로 분석하고 최적의 주행 판단을 도출하는 지능형 시스템 | [Visit](https://sakana.ai/blog/) |
 | **Unity AI** | 유니티 게임 엔진과 실시간 개발 워크플로우에 결합되어 3D 에셋 배치, 실시간 셰이더 제어, 물리 시뮬레이션 코드 최적화를 돕는 Unity 인프라 전용 자율 3D 제작/보조 AI 에이전트 | [Visit](https://unity.com/products/unity-ai) |
 | **Ornith 1.0** | 소프트웨어 개발 프로젝트의 전체 컨텍스트와 디렉토리 구조를 자율적으로 분석하고 복잡한 버그 수정, 기능 확장, 멀티 파일 리팩토링 작업을 최적화된 토큰 비용으로 완벽하게 조율하는 에이전트 코딩 특화 오픈소스 AI | [Visit](https://github.com/ornith-ai/ornith) |
-| **Wan Streamer** | 실시간 라이브 스트리밍 환경에서 시청자의 실시간 채팅 텍스트와 영상 리액션을 지연 없이 실시간으로 파악하여 상호작용과 음성 대화를 자율적으로 이끌어가는 가상 스트리머 에이전트 기술 | - |
 | **Krea 2** | 초고속 실시간 이미지 생성 및 정밀 업스케일링 퀄리티가 비약적으로 강화되었으며, 연 매출 혹은 펀딩 금액 100만 달러(약 13~14억 원) 미만의 중소 규모 팀 및 개발자에게 무료 상업적 이용(Commercial Use) 라이선스를 허용한 차세대 비주얼 AI 엔진 | [Visit](https://www.krea.ai/) |
 | **Microsoft Scout** | 사용자의 백그라운드 환경에서 항상 실행(Always-on)되며 복잡한 작업 흐름을 자율적으로 수행하는 마이크로소프트의 오토파일럿 AI 에이전트 | - |
 | **ideogram 4.0** | 타이포그래피와 이미지 합성 능력이 대폭 향상된 최신 이미지 생성 모델 (오픈 웨이트 제공, 상업적 이용 불가) | - |
@@ -159,6 +161,8 @@
 
 | Name | Description | Link |
 | :--- | :--- | :--- |
+| **The Loupe** | 코드베이스 전반을 정밀 스캔하여 보안 취약점과 자가 PoC 검증을 통한 논리적 결함(Bug)을 찾아내주는 지능형 코드 에이전트 프로그램 | - |
+| **tts-bench** | 로컬 및 다양한 인프라 환경에서 오픈소스 TTS(Text-to-Speech) 모델들의 실시간 배속, 자연스러움 등 다각도 성능지표를 측정 및 비교해 주는 벤치마크 도구 | - |
 | **Antigravity CLI** | 구글이 선셋하는 Gemini CLI를 대체하기 위해 출시한 터미널 기반 다중 에이전트 오케스트레이션 및 코드 생성 툴 | [Visit](https://antigravity.google/product/antigravity-cli) |
 | **badclaude** | 클로드(Claude) 에이전트의 피드백 속도와 엄격함을 제어하는 최적화 프로그램 | - |
 | **ClawRouter** | LLM API 호출 경로 최적화를 통해 추론 비용을 절감하는 도구 | - |
@@ -197,6 +201,7 @@
 
 | Name | Description | Link |
 | :--- | :--- | :--- |
+| **Noosphere** | 런칭하려는 신규 아이디어나 MVP 단계의 서비스 상품이 실제 시장 환경에서 작동하고 먹힐지(PMF) 자율적으로 분석·예측해 주는 인사이트 사이트 | - |
 | **조코헌트 (Jocohunt)** | 유용하고 기발한 국내외 웹·앱 인디 서비스들을 소개하고 공유하는 플랫폼 | [Visit](https://jocohunt.jocoding.io/) |
 | **GeekNews** | 국내외 최신 IT 기술 소식 큐레이션 | [Visit](https://news.hada.io/) |
 | **Developer Roadmaps** | 직군별/기술별 필수 학습 로드맵 가이드 | [Visit](https://roadmap.sh/) |
@@ -204,4 +209,4 @@
 
 ---
 
-마지막 업데이트: **2026-07-07**
+마지막 업데이트: **2026-07-14**
