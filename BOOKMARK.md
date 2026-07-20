@@ -31,6 +31,11 @@
 
 | Name | Description | Link |
 | :--- | :--- | :--- |
+| **Kimi K3** | 2.8조 파라미터, 네이티브 비전, 100만 토큰 컨텍스트를 지원하는 세계 최초의 3T급 오픈소스 프론티어 모델. 장시간 코딩, 고차원 추론 및 복잡한 연산 파이프라인 처리에 특화됨 | [Visit](https://kimi.com) |
+| **Bonsai 27B** | Qwen3.6-27B 모델 기반의 초압축 온디바이스 AI. 1비트 웨이트 경량화를 통해 모델 크기를 3.9GB로 줄여 모바일 기기(iPhone 등) 및 웹 브라우저 로컬 환경에서도 실시간 고성능 추론이 가능함 | [Visit](https://huggingface.co/) |
+| **MobileWan** | 스마트폰 등 모바일 엣지 디바이스 환경에 배포 가능한 최초의 5B 스케일 영상 생성 AI 시스템. 청크 단위 자동회귀 구조와 메모리 최적화를 통해 로컬 디바이스에서 고품질 영상을 고속 렌더링함 | [Visit](https://arxiv.org/abs/2607.06173) |
+| **Lucy 2.5** | Decart가 출시한 웹RTC 기반 실시간 비디오 편집 AI 모델. 1080p 해상도의 스트리밍 영상을 30fps 환경에서 딜레이 없이 실시간으로 배경 교체, 오브젝트 가감, 물리 기반 VFX 효과 등을 자연스럽게 반영함 | [Visit](https://fal.ai/models/decart/lucy-2-5/realtime) |
+| **WanDancer** | 오디오 트랙의 비트와 분위기를 정밀 분석하여 입력된 참조 이미지 속 캐릭터가 음악 템포와 무드에 맞춰 자연스럽게 춤을 추는 고해상도 모션 비디오를 생성해 주는 AI 솔루션 | [Visit](https://github.com/Comfy-Org/embedded-docs) |
 | **MUSE SPARK 1.1** | 메타(Meta)가 공개한 코딩 및 에이전트 환경에 고도화된 AI 모델. 스크립트 작성부터 파일 제어까지 유기적인 자율 작업을 지휘하며, 에이전트 구동 안정성이 대폭 강화됨 | [Visit](https://ai.meta.com/) |
 | **Lingbot-World-2** | 중국 앤트그룹(Ant Group)이 릴리즈한 혁신적인 오픈소스 멀티모달 '월드 모델'. 720p/60fps 환경에서 최대 1시간 동안 일관된 가상 환경을 연속 구동 및 인터랙티브 제어 가능 | - |
 | **Wan-Streamer 0.2** | 640x368 해상도 업그레이드와 동시에 모델 자체 레이턴시를 200ms 수준으로 정복한 실시간 시각-청각 아바타 대화 모델. 완벽한 상반신/손동작 싱크 구현 | [Visit](https://github.com/modelscope/wan) |
@@ -152,7 +157,7 @@
 | **Stripe Link (@link)** | 자율 AI 에이전트가 사용자 인증(OAuth)을 통해 안전하게 결제할 수 있도록 지원하는 디지털 지갑 | [Visit](https://link.com/) |
 | **android-sms-gateway** | 안드로이드 폰과 유심을 활용한 오픈소스 SMS 게이트웨이 (Twilio 대안) | [Visit](https://github.com/android-sms-gateway/android-sms-gateway) |
 | **JWT.io** | JSON Web Token 디버깅 및 구조 확인 | [Visit](https://jwt.io/) |
-| **Toss Payments** | 국내 결제 연동 API 가이드 | [Visit](https://developers.tosspayments.com/) |
+| **Toss Payments** | 국내 결제 연동 API 가이드 | [Visit](developers.tosspayments.com) |
 | **Twilio** | SMS, 음성 통신 API 플랫폼 | [Visit](https://www.twilio.com/) |
 
 <br />
@@ -161,6 +166,7 @@
 
 | Name | Description | Link |
 | :--- | :--- | :--- |
+| **Grok Build** | 깃허브에 전면 공개된 코딩 에이전트 및 터미널 UI(TUI) 빌드 인프라. 에이전트 루프, 도구 상호작용 방식, 컨텍스트 어셈블리 과정 등 그록이 구축된 아키텍처 코어 메커니즘을 포함함 | [Visit](https://github.com/xai-org/grok-build) |
 | **The Loupe** | 코드베이스 전반을 정밀 스캔하여 보안 취약점과 자가 PoC 검증을 통한 논리적 결함(Bug)을 찾아내주는 지능형 코드 에이전트 프로그램 | - |
 | **tts-bench** | 로컬 및 다양한 인프라 환경에서 오픈소스 TTS(Text-to-Speech) 모델들의 실시간 배속, 자연스러움 등 다각도 성능지표를 측정 및 비교해 주는 벤치마크 도구 | - |
 | **Antigravity CLI** | 구글이 선셋하는 Gemini CLI를 대체하기 위해 출시한 터미널 기반 다중 에이전트 오케스트레이션 및 코드 생성 툴 | [Visit](https://antigravity.google/product/antigravity-cli) |
@@ -209,4 +215,4 @@
 
 ---
 
-마지막 업데이트: **2026-07-14**
+마지막 업데이트: **2026-07-20**
