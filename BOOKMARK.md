@@ -31,6 +31,8 @@
 
 | Name | Description | Link |
 | :--- | :--- | :--- |
+| **ARC Puzzle** | 인간에게는 간단하지만 AI에게는 극도로 높은 추론 능력이 요구되어 일반화 성능 평가에 주로 쓰이는 추상 시각 패턴 추론 벤치마크 | [Visit](https://arcprize.org/) |
+| **OmniRoute** | 여러 AI 모델 서비스 및 무료 제공업체의 사용량을 통합 관리하고, 한도 소진 시 최적의 경로로 자동 라우팅하여 무료 사용량을 최대한 활용할 수 있게 돕는 도구 | - |
 | **Kimi K3** | 2.8조 파라미터, 네이티브 비전, 100만 토큰 컨텍스트를 지원하는 세계 최초의 3T급 오픈소스 프론티어 모델. 장시간 코딩, 고차원 추론 및 복잡한 연산 파이프라인 처리에 특화됨 | [Visit](https://kimi.com) |
 | **Bonsai 27B** | Qwen3.6-27B 모델 기반의 초압축 온디바이스 AI. 1비트 웨이트 경량화를 통해 모델 크기를 3.9GB로 줄여 모바일 기기(iPhone 등) 및 웹 브라우저 로컬 환경에서도 실시간 고성능 추론이 가능함 | [Visit](https://huggingface.co/) |
 | **MobileWan** | 스마트폰 등 모바일 엣지 디바이스 환경에 배포 가능한 최초의 5B 스케일 영상 생성 AI 시스템. 청크 단위 자동회귀 구조와 메모리 최적화를 통해 로컬 디바이스에서 고품질 영상을 고속 렌더링함 | [Visit](https://arxiv.org/abs/2607.06173) |
@@ -143,6 +145,7 @@
 
 | Name | Description | Link |
 | :--- | :--- | :--- |
+| **Scrollworld** | 웹사이트 스크롤 인터랙션에 맞춰 동작하는 동적 이미지 및 프론트엔드 애니메이션 효과를 손쉽게 구현할 수 있는 오픈소스 라이브러리/스킬 | - |
 | **impeccable** | 완벽한 프론트엔드 구현을 위한 AI Hanes 기반 핵심 스킬 가이드 | - |
 | **Next.js Docs** | 프레임워크 핵심 개념 및 API 레퍼런스 | [Visit](https://nextjs.org/docs) |
 | **Tailwind CSS** | 유틸리티 우선 CSS 프레임워크 문서 | [Visit](https://tailwindcss.com/docs) |
@@ -157,7 +160,7 @@
 | **Stripe Link (@link)** | 자율 AI 에이전트가 사용자 인증(OAuth)을 통해 안전하게 결제할 수 있도록 지원하는 디지털 지갑 | [Visit](https://link.com/) |
 | **android-sms-gateway** | 안드로이드 폰과 유심을 활용한 오픈소스 SMS 게이트웨이 (Twilio 대안) | [Visit](https://github.com/android-sms-gateway/android-sms-gateway) |
 | **JWT.io** | JSON Web Token 디버깅 및 구조 확인 | [Visit](https://jwt.io/) |
-| **Toss Payments** | 국내 결제 연동 API 가이드 | [Visit](developers.tosspayments.com) |
+| **Toss Payments** | 국내 결제 연동 API 가이드 | [Visit](https://developers.tosspayments.com) |
 | **Twilio** | SMS, 음성 통신 API 플랫폼 | [Visit](https://www.twilio.com/) |
 
 <br />
@@ -166,6 +169,8 @@
 
 | Name | Description | Link |
 | :--- | :--- | :--- |
+| **코덱스 리셋** | OpenAI Codex 및 AI 개발 도구들의 사용량 제한(Rate Limit / Quota) 리셋 시점을 실시간으로 추적 및 알림 해주는 디버깅·운영 도구 | - |
+| **ExploitGym** | AI 기반 보안 시스템 및 코드의 실제적인 취약점 탐지/해킹 공격 대응 능력을 검증하고 측정하는 평가 벤치마크 환경 | - |
 | **Grok Build** | 깃허브에 전면 공개된 코딩 에이전트 및 터미널 UI(TUI) 빌드 인프라. 에이전트 루프, 도구 상호작용 방식, 컨텍스트 어셈블리 과정 등 그록이 구축된 아키텍처 코어 메커니즘을 포함함 | [Visit](https://github.com/xai-org/grok-build) |
 | **The Loupe** | 코드베이스 전반을 정밀 스캔하여 보안 취약점과 자가 PoC 검증을 통한 논리적 결함(Bug)을 찾아내주는 지능형 코드 에이전트 프로그램 | - |
 | **tts-bench** | 로컬 및 다양한 인프라 환경에서 오픈소스 TTS(Text-to-Speech) 모델들의 실시간 배속, 자연스러움 등 다각도 성능지표를 측정 및 비교해 주는 벤치마크 도구 | - |
@@ -215,4 +220,4 @@
 
 ---
 
-마지막 업데이트: **2026-07-20**
+마지막 업데이트: **2026-07-28**
