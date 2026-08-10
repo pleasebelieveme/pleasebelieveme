@@ -31,6 +31,10 @@
 
 | Name | Description | Link |
 | :--- | :--- | :--- |
+| **WeatherNext** | 사이클론 및 열대 저기압의 경로, 강도, 구조를 정밀하게 예측하도록 고도화된 구글(Google DeepMind)의 오픈소스 기상 예측 AI 모델 | [Visit](https://deepmind.google/science/weathernext/) |
+| **Hell Grind** | 힉스필드(Higgsfield AI) 플랫폼 기반으로 제작된 정교한 영상 연출의 장편 AI 에피소드 영화 시리즈 | [Visit](https://higgsfield.ai/original-series/hell-grind/episode-1) |
+| **vocal render** | 작성된 악보 데이터를 분석하여 실제로 사람이 가창하듯 원어민 수준의 디테일과 감정선을 표현해 내는 작곡 전용 음성 합성 AI | - |
+| **Prime Agent** | 에이전트의 실행 제어 및 프롬프트·루프 스캐폴딩(Harness) 상태를 자율적으로 조정·최적화(Self-improving Continual Harness)해 주는 오픈소스 개발 프레임워크 | [Visit](https://github.com/PrimeIntellect-ai/prime-agent) |
 | **MiniMax H3** | 텍스트, 이미지, 오디오 등 다중 참조를 통합 이해하며 네이티브 스테레오 오디오와 함께 최대 15초 2K 고화질 영상을 직접 생성하는 오픈 웨이트 멀티모달 영상 AI 모델 | [Visit](https://github.com/MiniMax-AI) |
 | **ARC Puzzle** | 인간에게는 간단하지만 AI에게는 극도로 높은 추론 능력이 요구되어 일반화 성능 평가에 주로 쓰이는 추상 시각 패턴 추론 벤치마크 | [Visit](https://arcprize.org/) |
 | **OmniRoute** | 여러 AI 모델 서비스 및 무료 제공업체의 사용량을 통합 관리하고, 한도 소진 시 최적의 경로로 자동 라우팅하여 무료 사용량을 최대한 활용할 수 있게 돕는 도구 | - |
@@ -221,4 +225,4 @@
 
 ---
 
-마지막 업데이트: **2026-08-04**
+마지막 업데이트: **2026-08-11**
