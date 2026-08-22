@@ -31,6 +31,8 @@
 
 | Name | Description | Link |
 | :--- | :--- | :--- |
+| **MiniMax-Music3** | 보컬 가창과 반주 표현력이 대폭 향상된 오픈소스 음악 생성 AI 모델 (부분적 상업 이용 가능) | [Visit](https://github.com/MiniMax-AI) |
+| **watermarks-remover** | 이미지 및 영상에 포함된 워터마크를 복원 및 정밀 제거해 주는 오픈소스 프로그램 | [Visit](https://github.com/) |
 | **WeatherNext** | 사이클론 및 열대 저기압의 경로, 강도, 구조를 정밀하게 예측하도록 고도화된 구글(Google DeepMind)의 오픈소스 기상 예측 AI 모델 | [Visit](https://deepmind.google/science/weathernext/) |
 | **Hell Grind** | 힉스필드(Higgsfield AI) 플랫폼 기반으로 제작된 정교한 영상 연출의 장편 AI 에피소드 영화 시리즈 | [Visit](https://higgsfield.ai/original-series/hell-grind/episode-1) |
 | **vocal render** | 작성된 악보 데이터를 분석하여 실제로 사람이 가창하듯 원어민 수준의 디테일과 감정선을 표현해 내는 작곡 전용 음성 합성 AI | - |
@@ -217,6 +219,7 @@
 
 | Name | Description | Link |
 | :--- | :--- | :--- |
+| **x-algorithm** | xAI에서 전면 오픈소스로 공개한 X(구 트위터) 및 그록(Grok)의 추천 알고리즘 소스코드 저장소 | [Visit](https://github.com/xai-org/x-algorithm) |
 | **Noosphere** | 런칭하려는 신규 아이디어나 MVP 단계의 서비스 상품이 실제 시장 환경에서 작동하고 먹힐지(PMF) 자율적으로 분석·예측해 주는 인사이트 사이트 | - |
 | **조코헌트 (Jocohunt)** | 유용하고 기발한 국내외 웹·앱 인디 서비스들을 소개하고 공유하는 플랫폼 | [Visit](https://jocohunt.jocoding.io/) |
 | **GeekNews** | 국내외 최신 IT 기술 소식 큐레이션 | [Visit](https://news.hada.io/) |
@@ -225,4 +228,4 @@
 
 ---
 
-마지막 업데이트: **2026-08-11**
+마지막 업데이트: **2026-08-23**
