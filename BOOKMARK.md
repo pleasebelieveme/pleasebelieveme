@@ -107,6 +107,9 @@
 | **Grok Bot** | 앱과 도구를 사용해 여러 단계의 업무를 자율적으로 수행하고 다른 봇과 협업할 수 있도록 설계된 Grok 기반 AI 팀원 서비스 | [Visit](https://x.ai/grok) |
 | **SenseNova-U1.5-8B-MoT** | 텍스트·이미지를 통합 처리하며 이미지 생성과 편집, 네이티브 4K 출력 등을 지원하는 Apache-2.0 라이선스의 오픈 웨이트 멀티모달 모델 | [Visit](https://huggingface.co/sensenova/SenseNova-U1.5-8B-MoT) |
 | **4DAnyone** | 한 대의 카메라로 촬영한 인물 영상에서 여러 시점의 영상을 생성해 자유 시점 재생이 가능한 4D 인체 모델 재구성을 지원하는 오픈소스 프레임워크 | [Visit](https://github.com/ant-research/4DAnyone) |
+| **Hugging Face** | GitHub처럼 AI 모델·데이터셋·데모 앱을 공유하는 플랫폼으로, 공개된 모델 파일을 내려받거나 라이브러리를 통해 불러와 사용할 수 있음 | [Visit](https://huggingface.co/) |
+| **fal.ai** | 이미지·영상·음성 등 생성형 AI 모델을 개발자가 API로 빠르게 호출하고 배포할 수 있도록 추론 인프라를 제공하는 AI 플랫폼 | [Visit](https://fal.ai/) |
+| **Tavily** | AI 에이전트와 LLM이 최신 웹 정보를 검색·추출·크롤링·조사할 수 있도록 실시간 웹 접근 API를 제공하는 검색 플랫폼 | [Visit](https://www.tavily.com/) |
 
 <br />
 
@@ -193,6 +196,7 @@
 | **Postman** | API 개발, 테스트 및 문서화 도구 | [Visit](https://www.postman.com/) |
 | **Grafana** | 데이터 시각화 및 메트릭 모니터링 대시보드 | [Visit](https://grafana.com/) |
 | **Prometheus** | 오픈소스 시계열 데이터 수집 및 알림 시스템 | [Visit](https://prometheus.io/) |
+| **ngrok** | 로컬에서 실행 중인 웹 서버나 API를 포트 포워딩·공인 IP·직접적인 방화벽 설정 없이 안전한 공개 URL로 외부에 연결하고 트래픽을 관리하는 개발자용 네트워크 플랫폼 | [Visit](https://ngrok.com/) |
 
 <br />
 
@@ -230,4 +234,4 @@
 
 ---
 
-마지막 업데이트: **2026-08-29**
+마지막 업데이트: **2026-09-03**
