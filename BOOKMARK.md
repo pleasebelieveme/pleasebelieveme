@@ -31,7 +31,13 @@
 
 | Name | Description | Link |
 | :--- | :--- | :--- |
-| **WeatherNext** | 사이클론 및 열대 저기압의 경로, 강도, 구조를 정밀하게 예측하도록 고도화된 구글(Google DeepMind)의 오픈소스 기상 예측 AI 모델 | [Visit](https://deepmind.google/science/weathernext/) |
+| **Lyria 3.5** | Google DeepMind의 최신 음악 생성 AI 모델. 텍스트나 이미지를 바탕으로 보컬·가사·장르·템포 등을 제어해 최대 3분 길이의 고음질 음악을 생성 | [Visit](https://deepmind.google/models/lyria/) |
+| **H3-World** | MiniMax-H3 비디오 생성 모델의 언어 이해 능력을 활용해 키보드 입력으로 캐릭터와 카메라 움직임을 제어할 수 있도록 만든 인터랙티브 월드 모델 | [Visit](https://github.com/Danzer1xxxxChan/H3-World) |
+| **World Labs Atlas** | 텍스트·이미지·영상·3D 정보를 하나의 공간 맥락으로 처리하여 세계 생성, 3D 공간 복원, 시공간 시뮬레이션을 수행하는 World Labs의 옴니 월드 모델 | [Visit](https://www.worldlabs.ai/blog/atlas) |
+| **Hugging Face** | GitHub처럼 AI 모델·데이터셋·데모 앱을 공유하는 플랫폼으로, 공개된 모델 파일을 내려받거나 라이브러리를 통해 불러와 사용할 수 있음 | [Visit](https://huggingface.co/) |
+| **fal.ai** | 이미지·영상·음성 등 생성형 AI 모델을 개발자가 API로 빠르게 호출하고 배포할 수 있도록 추론 인프라를 제공하는 AI 플랫폼 | [Visit](https://fal.ai/) |
+| **Tavily** | AI 에이전트와 LLM이 최신 웹 정보를 검색·추출·크롤링·조사할 수 있도록 실시간 웹 접근 API를 제공하는 검색 플랫폼 | [Visit](https://www.tavily.com/) |
+| **WeatherNext 3** | 위성 데이터를 직접 활용해 전 세계의 고해상도 예보를 매시간 생성하며 온도·습도·바람·강수 등 지역 단위 기상 변수를 예측하는 Google DeepMind의 글로벌 날씨 AI 모델 | [Visit](https://deepmind.google/science/weathernext/) |
 | **Hell Grind** | 힉스필드(Higgsfield AI) 플랫폼 기반으로 제작된 정교한 영상 연출의 장편 AI 에피소드 영화 시리즈 | [Visit](https://higgsfield.ai/original-series/hell-grind/episode-1) |
 | **vocal render** | 작성된 악보 데이터를 분석하여 실제로 사람이 가창하듯 원어민 수준의 디테일과 감정선을 표현해 내는 작곡 전용 음성 합성 AI | - |
 | **Prime Agent** | 에이전트의 실행 제어 및 프롬프트·루프 스캐폴딩(Harness) 상태를 자율적으로 조정·최적화(Self-improving Continual Harness)해 주는 오픈소스 개발 프레임워크 | [Visit](https://github.com/PrimeIntellect-ai/prime-agent) |
@@ -43,7 +49,7 @@
 | **MobileWan** | 스마트폰 등 모바일 엣지 디바이스 환경에 배포 가능한 최초의 5B 스케일 영상 생성 AI 시스템. 청크 단위 자동회귀 구조와 메모리 최적화를 통해 로컬 디바이스에서 고품질 영상을 고속 렌더링함 | [Visit](https://arxiv.org/abs/2607.06173) |
 | **Lucy 2.5** | Decart가 출시한 웹RTC 기반 실시간 비디오 편집 AI 모델. 1080p 해상도의 스트리밍 영상을 30fps 환경에서 딜레이 없이 실시간으로 배경 교체, 오브젝트 가감, 물리 기반 VFX 효과 등을 자연스럽게 반영함 | [Visit](https://fal.ai/models/decart/lucy-2-5/realtime) |
 | **WanDancer** | 오디오 트랙의 비트와 분위기를 정밀 분석하여 입력된 참조 이미지 속 캐릭터가 음악 템포와 무드에 맞춰 자연스럽게 춤을 추는 고해상도 모션 비디오를 생성해 주는 AI 솔루션 | [Visit](https://github.com/Comfy-Org/embedded-docs) |
-| **MUSE SPARK 1.1** | 메타(Meta)가 공개한 코딩 및 에이전트 환경에 고도화된 AI 모델. 스크립트 작성부터 파일 제어까지 유기적인 자율 작업을 지휘하며, 에이전트 구동 안정성이 대폭 강화됨 | [Visit](https://ai.meta.com/) |
+| **Muse Spark 1.3** | 장시간 에이전트 작업과 코딩에 특화되어 여러 작업 흐름을 관리하고 복잡한 지시를 안정적으로 유지하는 Meta의 생성형 AI 모델 | [Visit](https://research.meta.ai/blog/introducing-muse-spark-1-3) |
 | **Lingbot-World-2** | 중국 앤트그룹(Ant Group)이 릴리즈한 혁신적인 오픈소스 멀티모달 '월드 모델'. 720p/60fps 환경에서 최대 1시간 동안 일관된 가상 환경을 연속 구동 및 인터랙티브 제어 가능 | - |
 | **Wan-Streamer 0.2** | 640x368 해상도 업그레이드와 동시에 모델 자체 레이턴시를 200ms 수준으로 정복한 실시간 시각-청각 아바타 대화 모델. 완벽한 상반신/손동작 싱크 구현 | [Visit](https://github.com/modelscope/wan) |
 | **GLM-5.2** | 744B 대규모 MoE 구조와 100만 토큰(1M) 컨텍스트 윈도우를 지원하며, 장기 자율 코딩 및 소프트웨어 공학 작업에서 상용 프론티어 모델 수준의 SOTA 성능을 기록한 제한 없는 MIT 라이선스의 최강 오픈웨이트 모델 | [Visit](https://github.com/THUDM/GLM-5) |
@@ -62,7 +68,7 @@
 | **reve 2.0** | 디테일 표현และ 사실감이 극대화된 차세대 고해상도 생성형 이미지 모델 | - |
 | **bernini** | 구글 제미나이 옴니(Gemini Omni) 아키텍처를 기반으로 한, 오픈소스 형태의 혁신적인 3D 및 비디오 영상 변형 모델 | - |
 | **miso one** | 인간 특유의 미묘한 어조와 감정선을 완벽하게 구현하여 '세계에서 가장 감정적인 음성 모델'로 평가받는 AI 오디오 기술 | - |
-| **nvidia PiD** | 기존 VAE 디코더를 대체하여 단 4샘플링 단계 만으로 레이턴트 표현을 고정밀 4K/2K 화질로 직접 렌더링·업스케일링하는 엔비디아의 오픈소스 픽셀 디퓨전 디코더 | [Visit](https://github.com/nv-tlabs/PiD) |
+| **nvidia PiD** | 기존 VAE 디코더를 대체하여 단 4샘링 단계 만으로 레이턴트 표현을 고정밀 4K/2K 화질로 직접 렌더링·업스케일링하는 엔비디아의 오픈소스 픽셀 디퓨전 디코더 | [Visit](https://github.com/nv-tlabs/PiD) |
 | **sesame ai** | 뛰어난 언어 표현력과 맥락 이해로 실제 사람과 통화하듯 자연스럽고 지연 없는 대화를 지원하는 차세대 실시간 오디오/음성 AI 에이전트 | [Visit](https://www.sesame.com/) |
 | **Lance** | 텍스트-비디오 생성, 비디오 편집, 영상 추론(VQA)을 단일 프레임워크로 처리하는 바이트댄스의 3B 규모 멀티모달 오픈소스 모델 (Apache-2.0) | [Visit](https://github.com/bytedance/Lance) |
 | **Longcat-Video-Avatar 1.5** | 메이투안(Meituan)이 공개한 생산성 중심의 고성능 오픈소스 AI 아바타/디지털 휴먼 생성 프레임워크 (Whisper-Large 기반 립싱크 및 롱폼 최적화) | [Visit](https://github.com/meigen-ai/LongCat-Video-Avatar-1.5-Page) |
@@ -107,9 +113,6 @@
 | **Grok Bot** | 앱과 도구를 사용해 여러 단계의 업무를 자율적으로 수행하고 다른 봇과 협업할 수 있도록 설계된 Grok 기반 AI 팀원 서비스 | [Visit](https://x.ai/grok) |
 | **SenseNova-U1.5-8B-MoT** | 텍스트·이미지를 통합 처리하며 이미지 생성과 편집, 네이티브 4K 출력 등을 지원하는 Apache-2.0 라이선스의 오픈 웨이트 멀티모달 모델 | [Visit](https://huggingface.co/sensenova/SenseNova-U1.5-8B-MoT) |
 | **4DAnyone** | 한 대의 카메라로 촬영한 인물 영상에서 여러 시점의 영상을 생성해 자유 시점 재생이 가능한 4D 인체 모델 재구성을 지원하는 오픈소스 프레임워크 | [Visit](https://github.com/ant-research/4DAnyone) |
-| **Hugging Face** | GitHub처럼 AI 모델·데이터셋·데모 앱을 공유하는 플랫폼으로, 공개된 모델 파일을 내려받거나 라이브러리를 통해 불러와 사용할 수 있음 | [Visit](https://huggingface.co/) |
-| **fal.ai** | 이미지·영상·음성 등 생성형 AI 모델을 개발자가 API로 빠르게 호출하고 배포할 수 있도록 추론 인프라를 제공하는 AI 플랫폼 | [Visit](https://fal.ai/) |
-| **Tavily** | AI 에이전트와 LLM이 최신 웹 정보를 검색·추출·크롤링·조사할 수 있도록 실시간 웹 접근 API를 제공하는 검색 플랫폼 | [Visit](https://www.tavily.com/) |
 
 <br />
 
@@ -182,6 +185,7 @@
 
 | Name | Description | Link |
 | :--- | :--- | :--- |
+| **ngrok** | 로컬에서 실행 중인 웹 서버나 API를 포트 포워딩·공인 IP·직접적인 방화벽 설정 없이 안전한 공개 URL로 외부에 연결하고 트래픽을 관리하는 개발자용 네트워크 플랫폼 | [Visit](https://ngrok.com/) |
 | **코덱스 리셋** | OpenAI Codex 및 AI 개발 도구들의 사용량 제한(Rate Limit / Quota) 리셋 시점을 실시간으로 추적 및 알림 해주는 디버깅·운영 도구 | - |
 | **ExploitGym** | AI 기반 보안 시스템 및 코드의 실제적인 취약점 탐지/해킹 공격 대응 능력을 검증하고 측정하는 평가 벤치마크 환경 | - |
 | **Grok Build** | 깃허브에 전면 공개된 코딩 에이전트 및 터미널 UI(TUI) 빌드 인프라. 에이전트 루프, 도구 상호작용 방식, 컨텍스트 어셈블리 과정 등 그록이 구축된 아키텍처 코어 메커니즘을 포함함 | [Visit](https://github.com/xai-org/grok-build) |
@@ -196,7 +200,6 @@
 | **Postman** | API 개발, 테스트 및 문서화 도구 | [Visit](https://www.postman.com/) |
 | **Grafana** | 데이터 시각화 및 메트릭 모니터링 대시보드 | [Visit](https://grafana.com/) |
 | **Prometheus** | 오픈소스 시계열 데이터 수집 및 알림 시스템 | [Visit](https://prometheus.io/) |
-| **ngrok** | 로컬에서 실행 중인 웹 서버나 API를 포트 포워딩·공인 IP·직접적인 방화벽 설정 없이 안전한 공개 URL로 외부에 연결하고 트래픽을 관리하는 개발자용 네트워크 플랫폼 | [Visit](https://ngrok.com/) |
 
 <br />
 
@@ -234,4 +237,4 @@
 
 ---
 
-마지막 업데이트: **2026-09-03**
+마지막 업데이트: **2026-09-15**
